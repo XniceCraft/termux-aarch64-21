@@ -5,6 +5,7 @@ These packages are compiled with Clang 5.0 (NDK r15c).
 
 ```
 Note : Clang 5.0 sysroot lib(libc.a libc.so libm.so libm.a libdl.so) replaced with the NDK r10e one and used gnustl.
+To avoid DT_VERSYM, DT_VERNEED, etc warning
 ```
 
 # Compiler Flags
