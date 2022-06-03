@@ -7,5 +7,33 @@ These packages are compiled with Clang 5.0 (NDK r15c).
 Note : Clang 5.0 sysroot lib(libc.a libc.so libm.so libm.a libdl.so) replaced with the NDK r10e one and used gnustl.
 ```
 
+# Compiler Flags
+```
+PKG_CONFIG_LIBDIR=/data/data/com.termux/files/usr/lib/pkgconfig \
+TOOLCHAIN=/home/android-toolchain-r15c \
+CC=${TOOLCHAIN}/bin/aarch64-linux-android-clang \
+CXX=${TOOLCHAIN}/bin/aarch64-linux-android-clang++ \
+AS=${TOOLCHAIN}/bin/aarch64-linux-android-as \
+AR=${TOOLCHAIN}/bin/aarch64-linux-android-ar \
+LD=${TOOLCHAIN}/bin/aarch64-linux-android-ld \
+NM=${TOOLCHAIN}/bin/aarch64-linux-android-nm \
+OBJCOPY=${TOOLCHAIN}/bin/aarch64-linux-android-objcopy \
+OBJDUMP=${TOOLCHAIN}/bin/aarch64-linux-android-objdump \
+STRIP=${TOOLCHAIN}/bin/aarch64-linux-android-strip \
+RANLIB=${TOOLCHAIN}/bin/aarch64-linux-android-ranlib \
+GCOV=${TOOLCHAIN}/bin/aarch64-linux-android-gcov \
+ADDR2LINE=${TOOLCHAIN}/bin/aarch64-linux-android-addr2line \
+DWP=${TOOLCHAIN}/bin/aarch64-linux-android-dwp \
+READELF=${TOOLCHAIN}/bin/aarch64-linux-android-readelf \
+SIZE=${TOOLCHAIN}/bin/aarch64-linux-android-size \
+STRINGS=${TOOLCHAIN}/bin/aarch64-linux-android-strings \
+GPROF=${TOOLCHAIN}/bin/aarch64-linux-android-gprof \
+ELFEDIT=${TOOLCHAIN}/bin/aarch64-linux-android-elfedit \
+CFLAGS="-march=armv8-a+simd -mtune=cortex-a53 -mcpu=cortex-a53 -fPIE -fPIC -O2 -ffast-math -mlittle-endian -fassociative-math -mfix-cortex-a53-835769 " \
+LDFLAGS="-pie -L/data/data/com.termux/files/usr/lib " \
+CXXFLAGS="-march=armv8-a+simd -mtune=cortex-a53 -mcpu=cortex-a53 -fPIE -fPIC -O2 -ffast-math -mlittle-endian -fassociative-math -mfix-cortex-a53-835769 -I/data/data/com.termux/files/usr/include " \
+CPPFLAGS="-march=armv8-a+simd -mtune=cortex-a53 -mcpu=cortex-a53 -fPIE -fPIC -O2 -ffast-math -mlittle-endian -fassociative-math -mfix-cortex-a53-835769 -I/data/data/com.termux/files/usr/include " \
+```
+
 # Credit :<br>
 @termux for packages patch (https://github.com/termux/termux-packages)
