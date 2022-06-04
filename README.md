@@ -4,7 +4,7 @@ These packages are compiled with Clang 5.0 (NDK r15c).
 <img src="https://img.shields.io/badge/Clang-5.0-informational?style=for-the-badge&logo=llvm">
 
 ```
-Note : Clang 5.0 sysroot lib(libc.a libc.so libm.so libm.a libdl.so, libstdc++.a, libstdc++.so) replaced with the NDK r10e one and used gnustl.
+Note : Clang 5.0 sysroot lib(libc.a libc.so libm.so libm.a libdl.so) replaced with the NDK r10e one | libstdc++.a, libstdc++.so replaced with the ndk r14 one.
 To avoid DT_VERSYM, DT_VERNEED, etc warning
 ```
 
