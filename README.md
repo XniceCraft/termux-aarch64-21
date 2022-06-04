@@ -37,5 +37,15 @@ CXXFLAGS="${CFLAGS} -I/data/data/com.termux/files/usr/include " \
 CPPFLAGS="${CFLAGS}-I/data/data/com.termux/files/usr/include " \
 ```
 
+# Info (obtained from termux_step_setup_toolchain.sh)
+libintl.h: Inline implementation gettext functions.
+langinfo.h: Inline implementation of nl_langinfo().
+Remove <sys/capability.h> because it is provided by libcap.
+Remove <sys/shm.h> from the NDK in favour of that from the libandroid-shmem.
+Remove <sys/sem.h> as it doesn't work for non-root.
+Remove <glob.h> as we currently provide it from libandroid-glob.
+Remove <iconv.h> as it's provided by libiconv.
+Remove <zlib.h> and <zconf.h> as we build our own zlib.
+
 # Credit :<br>
 @termux for packages patch (https://github.com/termux/termux-packages)
