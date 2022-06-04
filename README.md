@@ -34,7 +34,7 @@ ELFEDIT=${TOOLCHAIN}/bin/aarch64-linux-android-elfedit \
 CFLAGS="-march=armv8-a+simd -mtune=cortex-a53 -mcpu=cortex-a53 -fPIE -fPIC -O2 -ffast-math -mlittle-endian -fassociative-math -mfix-cortex-a53-835769 -fstack-protector-strong " \
 LDFLAGS="-pie -L/data/data/com.termux/files/usr/lib -Wl,--as-needed -Wl,-z,relro,-z,now " \
 CXXFLAGS="${CFLAGS} -I/data/data/com.termux/files/usr/include " \
-CPPFLAGS="${CFLAGS} -I/data/data/com.termux/files/usr/include " \
+CPPFLAGS="-I/data/data/com.termux/files/usr/include " \
 ```
 
 # Info (obtained from termux_step_setup_toolchain.sh)
