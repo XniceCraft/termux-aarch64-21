@@ -1,0 +1,19 @@
+--- Makefile	2009-09-07 23:10:26.000000000 -0400
++++ Makefile.new	2022-06-07 21:10:14.925719177 -0400
+@@ -1,6 +1,6 @@
+ CC=gcc
+ RM=rm -f
+-CFLAGS=-ggdb -O3 -W -Wall
++CFLAGS+=-O3 -W -Wall
+ 
+ C_SOURCES=alac.c \
+           demux.c \
+@@ -11,7 +11,7 @@
+ OBJECTS=$(C_SOURCES:.c=.o)
+ 
+ alac: $(OBJECTS)
+-	$(CC) -o alac $(OBJECTS)
++	$(CC) $(LDFLAGS) -o alac $(OBJECTS)
+ 
+ %.o: %.c
+ 	$(CC) -c $(CFLAGS) $< -o $@
