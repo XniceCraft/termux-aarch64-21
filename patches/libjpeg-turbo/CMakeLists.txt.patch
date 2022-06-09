@@ -1,0 +1,28 @@
+--- CMakeLists.txt.orig	2022-06-09 00:27:36.261006482 -0400
++++ CMakeLists.txt	2022-06-09 09:04:25.914247852 -0400
+@@ -236,9 +236,9 @@
+ report_option(ENABLE_SHARED "Shared libraries")
+ report_option(ENABLE_STATIC "Static libraries")
+ 
+-if(ENABLE_SHARED)
+-  set(CMAKE_INSTALL_RPATH ${CMAKE_INSTALL_FULL_LIBDIR})
+-endif()
++#if(ENABLE_SHARED)
++#  set(CMAKE_INSTALL_RPATH ${CMAKE_INSTALL_FULL_LIBDIR})
++#endif()
+ 
+ if(WITH_JPEG8 OR WITH_JPEG7)
+   set(WITH_ARITH_ENC 1)
+@@ -481,9 +481,9 @@
+ 
+ if(UNIX AND NOT APPLE)
+   file(WRITE ${CMAKE_CURRENT_BINARY_DIR}/conftest.map "VERS_1 { global: *; };")
+-  set(CMAKE_REQUIRED_FLAGS
+-    "-Wl,--version-script,${CMAKE_CURRENT_BINARY_DIR}/conftest.map")
+-  check_c_source_compiles("int main(void) { return 0; }" HAVE_VERSION_SCRIPT)
++#  set(CMAKE_REQUIRED_FLAGS
++#    "-Wl,--version-script,${CMAKE_CURRENT_BINARY_DIR}/conftest.map")
++#  check_c_source_compiles("int main(void) { return 0; }" HAVE_VERSION_SCRIPT)
+   set(CMAKE_REQUIRED_FLAGS)
+   file(REMOVE ${CMAKE_CURRENT_BINARY_DIR}/conftest.map)
+   if(HAVE_VERSION_SCRIPT)
