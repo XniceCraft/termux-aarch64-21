@@ -1,5 +1,7 @@
 # Termux Package for Aarch64 Android 5 (21)
+### About
 These packages are compiled with Clang 5.0 (NDK r15c).
+This repository is open source.
 
 <img src="https://img.shields.io/badge/Clang-5.0-informational?style=for-the-badge&logo=llvm">
 
@@ -8,7 +10,7 @@ Note : Clang 5.0 sysroot lib(libc.a libc.so libm.so libm.a libdl.so) replaced wi
 To avoid DT_VERSYM, DT_VERNEED, etc warning
 ```
 
-# Compiler Flags
+### Compiler Flags
 ```
 PKG_CONFIG_LIBDIR=/data/data/com.termux/files/usr/lib/pkgconfig \
 TOOLCHAIN=/home/android-toolchain-r15c \
@@ -37,7 +39,7 @@ CXXFLAGS="${CFLAGS} -I/data/data/com.termux/files/usr/include " \
 CPPFLAGS="-I/data/data/com.termux/files/usr/include " \
 ```
 
-# Info (obtained from termux_step_setup_toolchain.sh)
+### Info (obtained from termux_step_setup_toolchain.sh)
 ```
 libintl.h: Inline implementation gettext functions.
 langinfo.h: Inline implementation of nl_langinfo().
@@ -49,5 +51,8 @@ Remove <iconv.h> as it's provided by libiconv.
 Remove <zlib.h> and <zconf.h> as we build our own zlib.
 ```
 
-# Credit :<br>
+### Credit :<br>
 @termux for packages patch (https://github.com/termux/termux-packages)
+
+### Upcoming Update(s)
+- This project will migrate from Clang 5.0 (NDK r15c) to Clang 14 (NDK r24)
