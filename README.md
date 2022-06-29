@@ -60,7 +60,7 @@ Remove KRH/khrplatform.h provided by mesa.
 ```
 
 ### Toolchain Download
-Gdrive https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
+Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
 
 ### Credit :<br>
 - <a href="https://github.com/termux/termux-packages">@termux</a> for packages patch.
