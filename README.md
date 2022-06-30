@@ -4,6 +4,23 @@ This repository provide termux packages for Aarch64 Android 5 that aren't mainta
 
 <img src="https://img.shields.io/badge/Clang-14-informational?style=for-the-badge&logo=llvm">
 
+### Toolchain Download
+Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
+
+### Upcoming Update
+- Rebuild packages that compiled with Clang 5.0.
+
+### Packages still aren't recompiled
+- fdkaac
+- flac
+- iconv
+- libfdk-aac
+- libflac
+- libiconv
+- libjpeg
+- libjpeg-turbo
+- libmad
+- libvorbis
 
 ### Toolchain Changelog
 - Removing x86_64-linux-android i686-linux-android arm-linux-androideabi and aarch64-linux-android23-32 toolchains to decrease size
@@ -59,12 +76,6 @@ Remove unicode headers provided by libicu.
 Remove KRH/khrplatform.h provided by mesa.
 ```
 
-### Toolchain Download
-Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
-
 ### Credit :<br>
 - <a href="https://github.com/termux/termux-packages">@termux</a> for packages patch.
 - <a href="https://source.android.com">AOSP</a> for ndk r24 toolchain.
-
-### Upcoming Update
-- Rebuild packages that compiled with Clang 5.0.
