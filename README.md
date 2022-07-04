@@ -18,7 +18,6 @@ Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linu
 - libflac
 - libiconv
 - libjpeg
-- libjpeg-turbo
 - libmad
 - libvorbis
 
