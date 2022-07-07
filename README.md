@@ -16,7 +16,6 @@ Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linu
 - libfdk-aac
 - libflac
 - libjpeg
-- libvorbis
 
 ### Toolchain Changelog
 - Removing x86_64-linux-android i686-linux-android arm-linux-androideabi and aarch64-linux-android23-32 toolchains to decrease size
