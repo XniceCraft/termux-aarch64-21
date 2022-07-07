@@ -28,6 +28,7 @@ Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linu
 - Replace ndk r24 ld.lld with ld.lld from ndk r18b. (To avoid unsupported DT_FLAGS_1)
 - Replace sysroot/usr/lib/aarch64-linux-android/(libc.a, libm.a, libdl.a) with the api 21 one.
 - Symlink sysroot/usr/lib/aarch64-linux-android/22 to sysroot/usr/lib/aarch64-linux-android/21
+- Patching sysroot with ndk-patches from termux repo.
 
 ### Compiler Flags
 ```
