@@ -13,7 +13,6 @@ Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linu
 ### Packages still aren't recompiled
 - fdkaac
 - flac
-- libfdk-aac
 - libflac
 - libjpeg
 
