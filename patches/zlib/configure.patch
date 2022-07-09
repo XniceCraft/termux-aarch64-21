@@ -1,0 +1,11 @@
+--- configure.old	2022-07-09 02:45:13.192489446 -0400
++++ configure	2022-07-09 02:46:16.376625050 -0400
+@@ -219,7 +219,7 @@
+   fi
+   case "$uname" in
+   Linux* | linux* | GNU | GNU/* | solaris*)
+-        LDSHARED=${LDSHARED-"$cc -shared -Wl,-soname,libz.so.1,--version-script,${SRCDIR}zlib.map"} ;;
++        LDSHARED=${LDSHARED-"$cc -shared -Wl,-soname,libz.so.1"} ;;
+   *BSD | *bsd* | DragonFly)
+         LDSHARED=${LDSHARED-"$cc -shared -Wl,-soname,libz.so.1,--version-script,${SRCDIR}zlib.map"}
+         LDCONFIG="ldconfig -m" ;;
