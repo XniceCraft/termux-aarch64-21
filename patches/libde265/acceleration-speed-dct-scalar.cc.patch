@@ -1,0 +1,8 @@
+--- acceleration-speed/dct-scalar.cc.orig	2018-08-28 13:24:59.000000000 -0400
++++ acceleration-speed/dct-scalar.cc	2022-07-10 09:34:13.816589871 -0400
+@@ -31,3 +31,5 @@
+ DSPFunc_IDCT_Scalar_8x8   idct_scalar_8x8;
+ DSPFunc_IDCT_Scalar_16x16 idct_scalar_16x16;
+ DSPFunc_IDCT_Scalar_32x32 idct_scalar_32x32;
++#undef __system_property_get
++int __system_property_get(const char* __name, char* __value){ return 0;}
