@@ -1,0 +1,771 @@
+Package: alac-decoder
+Version: 0.2.0
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 80
+Filename: dists/pool/main/alac-decoder_0.2.0-1_aarch64.deb
+Size: 15892
+MD5sum: f0e739bef7d8cd22a55df10a75f37505
+SHA1: 470479f06686ce0486b15691c0a15113b2af5ecd
+SHA256: fa035d87337fb3392186578959439499787b92f7dd5fe193704adc61aa41c5af
+Homepage: http://craz.net/programs/itunes/alac.html
+Description: Apple Lossless audio codec decoder.
+Original-Maintainer: Lukas Fittl
+
+Package: expat
+Version: 2.4.8
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 68
+Depends: libexpat (= 2.4.8)
+Filename: dists/pool/main/expat_2.4.8_aarch64.deb
+Size: 10712
+MD5sum: 3975fb2c3759a76ba279cfe93993d26e
+SHA1: 20221130674508c660ed1e0903f24f52d4690281
+SHA256: 214204cb9e0edaa2bc94d3e07ed2619cb3e368be67f5eaa6a5be7b417b9868dc
+Homepage: https://libexpat.github.io/
+Description: XML parsing C library.
+License: MIT/X Consortium license
+
+Package: fdkaac
+Version: 1.0.2-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 180
+Depends: libfdk-aac
+Filename: dists/pool/main/fdkaac_1.0.2-1_aarch64.deb
+Size: 44364
+MD5sum: 12d2c0ba5fbafdb37a01cdf4463aaa0c
+SHA1: 32062f3a312efa9f4a3b9fb5391e79ea22c4c911
+SHA256: 621b5e509f47caa02725a1f10c2f60adf513af1fcc283d0255ba3c860f869190
+Homepage: https://github.com/nu774/fdkaac
+Description: Command line encoder for libfdk-aac.
+License: Zlib, MIT, BSD, BSD-4-clause, BSD-style
+
+Package: flac
+Version: 1.3.4-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 456
+Depends: libflac (= 1.3.4-1)
+Filename: dists/pool/main/flac_1.3.4-1_aarch64.deb
+Size: 112184
+MD5sum: 98351810ef63cbd02942f286e6a0de3f
+SHA1: b654a4a33a7b84515a38da48dae9174a0e477630
+SHA256: 278fa25bd6574e247dfe26e5e49715623f7f626f44ab8aa7f6f9e997f692ee4b
+Homepage: https://xiph.org/flac/
+Description: FLAC (Free Lossless Audio Codec) command-line tool.
+License: GPL-2.0, LGPL-2.1, BSD 3-Clause
+
+Package: iconv
+Version: 1.17-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 68
+Depends: libiconv (= 1.17-1)
+Filename: dists/pool/main/iconv_1.17-1_aarch64.deb
+Size: 10784
+MD5sum: c75db9ce09d817120549c22c2f730aba
+SHA1: 086a36c2b1c61f4d879dd967a086905c995c49b2
+SHA256: 5ee1f935a7610cdbe3847d85adbab4296ca91cfc9181797701dbfbde7cad759e
+Homepage: https://www.gnu.org/software/libiconv/
+Description: Utility converting between different character encodings.
+License: GPL
+
+Package: jpegoptim
+Version: 1.4.7
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 92
+Depends: libjpeg-turbo
+Filename: dists/pool/main/jpegoptim_1.4.7_aarch64.deb
+Size: 15564
+MD5sum: 47e3d3f06d39e270b2ce6cf41ec9145b
+SHA1: 563b6a19902a5894da75938e35fa63b9f573c00c
+SHA256: ed5e3ddc6987784fccfe35878fba2f30f5c07cbe554799f40deface7e8feaa3a
+Homepage: https://www.kokkonen.net/tjko/projects.html
+Description: Utility to optimize jpeg files. Provides lossless optimization (based on optimizing the Huffman tables) and "lossy" optimization based on setting maximum quality factor.
+License: GPL-3.0 license
+
+Package: libandroid-glob
+Version: 0.6
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 68
+Breaks: libandroid-glob-dev
+Replaces: libandroid-glob-dev
+Filename: dists/pool/main/libandroid-glob_0.6_aarch64.deb
+Size: 8112
+MD5sum: 44744ba479f13574aeb975096af5dcca
+SHA1: fe49a7f7700c20c041a810f2e4e74de400a213dc
+SHA256: 042f3302645f11071c7a0d24d089ba7cac2ba930076b35dee927a2a2a76bbc2a
+Homepage: https://man7.org/linux/man-pages/man3/glob.3.html
+Description: Shared library for the glob(3) system function.
+License: BSD 3-Clause
+
+Package: libandroid-glob-static
+Version: 0.6
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 40
+Depends: libandroid-glob (= 0.6)
+Filename: dists/pool/main/libandroid-glob-static_0.6_aarch64.deb
+Size: 5408
+MD5sum: 2cf89c95b6e23fe9f112f0f58f7ab159
+SHA1: 8d072d1e3290c33016c28e759b91491dc750cf50
+SHA256: 72f8973e9329fe4958235fb1a5c089a2a09e63e79d3f7ebfdc977d713f2bd5f4
+Homepage: https://man7.org/linux/man-pages/man3/glob.3.html
+Description: Static libraries for libandroid-glob.
+License: BSD 3-Clause
+
+Package: libandroid-posix-semaphore
+Version: 0.1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 56
+Filename: dists/pool/main/libandroid-posix-semaphore_0.1_aarch64.deb
+Size: 4452
+MD5sum: cdb5bd2b95f822a3af15e47fde7f0a7b
+SHA1: 01ff5494407812ce474dda378da818febb4d5269
+SHA256: 0f8a6f7adb001f723ab0ab3f2e4405520f94e9ba96ae06c96b4202ded6fc4c90
+Homepage: https://man7.org/linux/man-pages/man7/sem_overview.7.html
+Description: Shared library for the posix semaphore system function.
+License: MIT
+
+Package: libandroid-posix-semaphore-static
+Version: 0.1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 36
+Depends: libandroid-posix-semaphore (= 0.1)
+Filename: dists/pool/main/libandroid-posix-semaphore-static_0.1_aarch64.deb
+Size: 3152
+MD5sum: 83e5b429317d135bbe61701f754097b3
+SHA1: 77dd15ff056e7bee17a41ab1b7bb3c30444bec33
+SHA256: 631f4a9fab5bd271bb8618928ee7583e1ecc6f3774dfd9b2ffa17f89e624ff35
+Homepage: https://man7.org/linux/man-pages/man7/sem_overview.7.html
+Description: Static libraries for libandroid-posix-semaphore.
+License: MIT
+
+Package: libandroid-support
+Version: 28
+Architecture: aarch64
+Essential: yes
+Maintainer: X-Nice Craft
+Installed-Size: 80
+Pre-Depends: dpkg (>= 1.19.4-3)
+Filename: dists/pool/main/libandroid-support_28_aarch64.deb
+Size: 11704
+MD5sum: 76ffb3c5ae65ebc01fcab8b295f897a8
+SHA1: 62956e876dad7e7a3b64ac36a6384d21ec33716a
+SHA256: 3fa4fe7c410840effd7c3e5fdee6fafa689e4d47e712a06bfb6a0524361ee3e6
+Homepage: https://github.com/termux/libandroid-support
+Description: Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+License: Apache-2.0, MIT
+
+Package: libandroid-support-static
+Version: 28
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 72
+Depends: libandroid-support (= 28)
+Filename: dists/pool/main/libandroid-support-static_28_aarch64.deb
+Size: 9096
+MD5sum: 2c30e14b5f03c8b9e59d7ffc0f350c2f
+SHA1: 9514006478f2ee9eed0b61e5b0c27730e0ed9cde
+SHA256: 0085354f70ee1abf5690a05c6c8a2498b31c9a9b9349e8e61c827de7d4b3bf0d
+Homepage: https://github.com/termux/libandroid-support
+Description: Static libraries for libandroid-support.
+License: Apache-2.0, MIT
+
+Package: libde265
+Version: 1.0.8
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1132
+Depends: libc++
+Filename: dists/pool/main/libde265_1.0.8_aarch64.deb
+Size: 295596
+MD5sum: 2b0c4f3f305c3f2849c2568dacf8c9e8
+SHA1: 179df5916ca998a3d226475a2b4e8b811416b6d7
+SHA256: 8de5ca12346a974c13ca445504417835e033751798870126261c31bf24096c38
+Homepage: https://github.com/strukturag/libde265
+Description: H.265/HEVC video stream decoder library
+License: GPL-3.0
+
+Package: libde265-examples
+Version: 1.0.8
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 692
+Depends: libde265 (= 1.0.8)
+Filename: dists/pool/main/libde265-examples_1.0.8_aarch64.deb
+Size: 103876
+MD5sum: 5ab37a3b2e4826c2280b2d5b9a07c47c
+SHA1: 3fbdb860837ec1fb18e540587358fae3c51767a1
+SHA256: b7f38d54297595be50de5f80841b51420b9e64ab53eccc0d5e77002ddf3d6564
+Homepage: https://github.com/strukturag/libde265
+Description: Open H.265 video codec implementation - examples.
+License: MIT
+
+Package: libde265-static
+Version: 1.0.8
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1760
+Depends: libde265 (= 1.0.8)
+Filename: dists/pool/main/libde265-static_1.0.8_aarch64.deb
+Size: 325320
+MD5sum: f419366dc16619e515c5823d9da6860d
+SHA1: 64595a086d2e45663cd10f4f0f9a8c133c607adc
+SHA256: 36bebd111089b471c2beed7a6d184b8f7acdf6431cb474f6c8fc95f7f89e0701
+Homepage: https://github.com/strukturag/libde265
+Description: Static libraries for libde265
+License: GPL-3.0
+
+Package: libexpat
+Version: 2.4.8
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 388
+Breaks: libexpat-dev
+Replaces: libexpat-dev
+Filename: dists/pool/main/libexpat_2.4.8_aarch64.deb
+Size: 88392
+MD5sum: 5a46f10444c218d7bbd49231bfe55ffe
+SHA1: e19561f7e73843f8c94d08a5d445c9a0b7f8de11
+SHA256: 68c6488cb44cf7979775864c290d661a6b30722ebce8a477eee5bf23e3d198f2
+Homepage: https://libexpat.github.io/
+Description: Fast streaming XML parser written in C99
+License: MIT/X Consortium license
+
+Package: libexpat-static
+Version: 2.4.8
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 260
+Depends: libexpat (= 2.4.8)
+Filename: dists/pool/main/libexpat-static_2.4.8_aarch64.deb
+Size: 58952
+MD5sum: db3782915771ab04bb4a34054c1b100f
+SHA1: efb3b1005a4295227f03e0281f9dc743575f71de
+SHA256: 55aa4b7cf64a8b213b2437a43e70cabf34cd992e596415240a5b60983172edf0
+Homepage: https://libexpat.github.io/
+Description: Static libraries for libexpat
+License: MIT/X Consortium license
+
+Package: libfdk-aac
+Version: 2.0.2-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 2004
+Breaks: libfdk-aac-dev
+Replaces: libfdk-aac-dev
+Filename: dists/pool/main/libfdk-aac_2.0.2-1_aarch64.deb
+Size: 752104
+MD5sum: b39408d7e843e600c8653e097dabd09e
+SHA1: b90b04182a825b117f5efbcc0973f780125131e5
+SHA256: b617c6e953a25ded009895588b3632046c0cdb231cbe87645723133c67f439ee
+Homepage: https://github.com/mstorsjo/fdk-aac
+Description: Fraunhofer FDK AAC Codec Library.
+
+Package: libfdk-aac-static
+Version: 2.0.2-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 2384
+Depends: libfdk-aac (= 2.0.2-1)
+Filename: dists/pool/main/libfdk-aac-static_2.0.2-1_aarch64.deb
+Size: 766052
+MD5sum: 6ea80c26c4f03a24f57c8f621c9a26c6
+SHA1: d1213f7e409223e192c59bbe89880aed5fc3cb42
+SHA256: 6b2dbf1a96c885b80e4e3dfbe11b8a6cf7885857e45fd652b4739e1909d0f1d1
+Homepage: https://github.com/mstorsjo/fdk-aac
+Description: Static libraries for libfdk-aac.
+
+Package: libflac
+Version: 1.3.4-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1960
+Depends: libc++, libogg
+Breaks: libflac-dev
+Replaces: libflac-dev
+Filename: dists/pool/main/libflac_1.3.4-1_aarch64.deb
+Size: 274048
+MD5sum: e47035605c6a3aff1bcdbf96b4b1e466
+SHA1: 933ec887cb19ab22d14f054ec95f78ca508d3f55
+SHA256: e72d64b76ba3602301229ee7f2a55a5723b7e6b21581b8705627cc3f7960ef50
+Homepage: https://xiph.org/flac/
+Description: FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality.
+License: GPL-2.0, LGPL-2.1, BSD 3-Clause
+
+Package: libflac-static
+Version: 1.3.4-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 568
+Depends: libflac (= 1.3.4-1)
+Filename: dists/pool/main/libflac-static_1.3.4-1_aarch64.deb
+Size: 123860
+MD5sum: a10614eac9362c64e3e4be712fa876a3
+SHA1: eb82e91994cf266d08d18998adbd4d89e02a6a14
+SHA256: c612354c1a11cb47738bebe50200a229dcad88bbcd88e288015726a3204f418f
+Homepage: https://xiph.org/flac/
+Description: Static libraries for libflac
+License: GPL-2.0, LGPL-2.1, BSD 3-Clause
+
+Package: libiconv
+Version: 1.17-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1300
+Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
+Filename: dists/pool/main/libiconv_1.17-1_aarch64.deb
+Size: 560828
+MD5sum: eb9d099002b65efa5933a41a37a7045b
+SHA1: 6c27b362d51fe4eae05a9d93a2fa134083760fde
+SHA256: a5a9847da2b7f9176175e0503df7c702b61419d0482475eb23088edeed34f74b
+Homepage: https://www.gnu.org/software/libiconv/
+Description: An implementation of iconv()
+License: LGPL-2.0
+
+Package: libiconv-static
+Version: 1.17-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1220
+Depends: libiconv (= 1.17-1)
+Filename: dists/pool/main/libiconv-static_1.17-1_aarch64.deb
+Size: 553288
+MD5sum: 90f95dc49912f2f1b4f6965a9076f11a
+SHA1: 273e098db9f661017db7cc4b4ad79ab0ca6b254f
+SHA256: ee9f28596267ae54e640f06f2d52afc10c6b1a9775ae80f4eb49483c7897229b
+Homepage: https://www.gnu.org/software/libiconv/
+Description: Static libraries for libiconv.
+License: LGPL-2.0
+
+Package: libjpeg-turbo
+Version: 2.1.3-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1732
+Conflicts: libjpeg
+Breaks: libjpeg-turbo-dev
+Replaces: libjpeg-turbo-dev
+Filename: dists/pool/main/libjpeg-turbo_2.1.3-1_aarch64.deb
+Size: 330620
+MD5sum: 96e6b2d7251b6a111fe8330df8b61638
+SHA1: 44f3a343316bf2e90c9c0b675f82c0e46d44c53c
+SHA256: 7323e04a976956b894396cb5091b2a53e1ee4c5fd22e32831aab95ac40421537
+Homepage: https://libjpeg-turbo.virtualgl.org
+Description: Library for reading and writing JPEG image files.
+License: IJG, BSD 3-Clause, ZLIB
+
+Package: libjpeg-turbo-progs
+Version: 2.1.3-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 400
+Depends: libjpeg-turbo (= 2.1.3-1)
+Conflicts: libjpeg-progs
+Filename: dists/pool/main/libjpeg-turbo-progs_2.1.3-1_aarch64.deb
+Size: 85428
+MD5sum: 4bf22750579f41f3bef12ac76397e3b8
+SHA1: 0f0e003b27e04a38eaecf222ec7101b2d8aa89a7
+SHA256: 5256d45a8d066db327fde5cc56901f63bed11f7c437f05ba4d0cd08d8df86b85
+Homepage: https://libjpeg-turbo.virtualgl.org
+Description: Programs for manipulating JPEG files.
+License: IJG, BSD 3-Clause, ZLIB
+
+Package: libjpeg-turbo-static
+Version: 2.1.3-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1436
+Depends: libjpeg-turbo (= 2.1.3-1)
+Conflicts: libjpeg-static
+Filename: dists/pool/main/libjpeg-turbo-static_2.1.3-1_aarch64.deb
+Size: 215524
+MD5sum: 0b0d3147d4522384a34377be1ea476b0
+SHA1: add2d4a2710a2d1be2faeace6fd05e502c6f30a0
+SHA256: 4c320cb7d75f407232b8186c6ee98a6fd7e106428b3234a3046db2e38e03aac6
+Homepage: https://libjpeg-turbo.virtualgl.org
+Description: Static libraries for libjpeg-turbo.
+License: IJG, BSD 3-Clause, ZLIB
+
+Package: liblzma
+Version: 5.2.5
+Architecture: aarch64
+Essential: yes
+Maintainer: X-Nice Craft
+Installed-Size: 652
+Breaks: liblzma-dev
+Replaces: liblzma-dev
+Filename: dists/pool/main/liblzma_5.2.5_aarch64.deb
+Size: 149720
+MD5sum: 7b844e6794289acfcb2d12f309c45d86
+SHA1: 984a87cb5d21f180e8af2ac34d925b9f9e284139
+SHA256: 787f0b279b5866fea6a75f4342448e8bffe75051650fa6904e125fbf09512b63
+Homepage: https://tukaani.org/xz/
+Description: liblzma is a compression library with an API similar to that of zlib.
+License: GNU LGPLv2.1, GNU GPLv2, or GNU GPLv3
+
+Package: liblzma-static
+Version: 5.2.5
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 320
+Depends: liblzma (= 5.2.5)
+Filename: dists/pool/main/liblzma-static_5.2.5_aarch64.deb
+Size: 82764
+MD5sum: 7d30e64622923258d531f68e95858746
+SHA1: 9262938b30abe07983ebc87e8034baeef4768f78
+SHA256: 40adb06e673633f6bcc138087d5047fef91a6930b6b9f13bff007471e5f542a8
+Homepage: https://tukaani.org/xz/
+Description: Static libraries for liblzma.
+License: GNU LGPLv2.1, GNU GPLv2, or GNU GPLv3
+
+Package: libmad
+Version: 0.15.1b-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 196
+Breaks: libmad-dev
+Replaces: libmad-dev
+Filename: dists/pool/main/libmad_0.15.1b-1_aarch64.deb
+Size: 58256
+MD5sum: 231d4c57213f6b8845326bbd7a869f6d
+SHA1: e272bdd19a82bce44394ac586a3eedf61307d6c3
+SHA256: b2f7f32776a1be73b78aab5190e475b7dc1177619cdb27f88e037022206df264
+Homepage: http://www.underbit.com/products/mad/
+Description: MAD is a high-quality MPEG audio decoder
+License: GPL-2.0
+
+Package: libmad-static
+Version: 0.15.1b-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 176
+Depends: libmad (= 0.15.1b-1)
+Filename: dists/pool/main/libmad-static_0.15.1b-1_aarch64.deb
+Size: 52488
+MD5sum: c78e5af6605a2ca9f59ee84b6de90993
+SHA1: c7512310a780a1e325b4cbd3fd57ede359e6b286
+SHA256: e8d1963364ab1d7bc5716672c2f7d28879692e8e63005654f6281a308c231557
+Homepage: http://www.underbit.com/products/mad/
+Description: Static libraries for libmad
+License: GPL-2.0
+
+Package: libogg
+Version: 1.3.5-1
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 692
+Breaks: libogg-dev
+Replaces: libogg-dev
+Filename: dists/pool/main/libogg_1.3.5-1_aarch64.deb
+Size: 189204
+MD5sum: 77200131f920a738478a1ce2315744f8
+SHA1: e77220c974a81fe90b3220abbb489556a68aa975
+SHA256: 0bbf0c7f82aa42cf1d7b5c45f5a9a314f12445a897922d7321137345e015f229
+Homepage: https://xiph.org/ogg/
+Description: Ogg is a multimedia container format, and the native file and stream format for the Xiph.org multimedia codecs.
+License: BSD 3-Clause
+
+Package: libogg-static
+Version: 1.3.5-1
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 68
+Depends: libogg (= 1.3.5-1)
+Filename: dists/pool/main/libogg-static_1.3.5-1_aarch64.deb
+Size: 17744
+MD5sum: f8f4ec46faf8984d6dae007cd1043a82
+SHA1: 6efbe017e8de6f03e0dad4dd44e052f51653c5a2
+SHA256: dd0da3717ca0b2d59ce43c3c507d016e4c5d03a05f2ff4f6e243ee8e8df8426d
+Homepage: https://xiph.org/ogg/
+Description: Static libraries for libogg.
+License: BSD 3-Clause
+
+Package: libopus
+Version: 1.3.1-1
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 764
+Breaks: libopus-dev
+Replaces: libopus-dev
+Filename: dists/pool/main/libopus_1.3.1-1_aarch64.deb
+Size: 278940
+MD5sum: 06e438e318710dc4e96f0137211054d1
+SHA1: b9b23da87294baef684c3990cd1d95508c136df4
+SHA256: 2a0d7ee3e93108c3971472fa6ea38d93ac2832a0d141c909f20820d431cea4a7
+Homepage: https://www.opus-codec.org/
+Description: Opus is a totally open, royalty-free, highly versatile audio codec.
+License: BSD 3-Clause
+
+Package: libopus-static
+Version: 1.3.1-1
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 844
+Depends: libopus (= 1.3.1-1)
+Filename: dists/pool/main/libopus-static_1.3.1-1_aarch64.deb
+Size: 280896
+MD5sum: 71a7154523fbaf5b2088eb26fd34f1a3
+SHA1: 20ce363eba1e8b025f6faca8d0a674305555e9c7
+SHA256: 4a3eb31655164b9e5a1f5701e0f45bbb7ea4fb6a66b830389b2e178a3139350e
+Homepage: https://www.opus-codec.org/
+Description: Static libraries for libopus.
+License: BSD 3-Clause
+
+Package: libvorbis
+Version: 1.3.7-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 2008
+Depends: libogg
+Breaks: libvorbis-dev
+Replaces: libvorbis-dev
+Filename: dists/pool/main/libvorbis_1.3.7-1_aarch64.deb
+Size: 319528
+MD5sum: ac483f143bf78044518227ce2b03c2a6
+SHA1: 52c130d82743b374b6ad0539919bb206f7b6ab01
+SHA256: 95d147ebb6b7366a4f26306a8cbd98d1e6700ed9592939543bb83a3e124a44ac
+Homepage: https://xiph.org/vorbis/
+Description: Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format for mid to high quality (8kHz-48.0kHz, 16+ bit, polyphonic) audio and music at fixed and variable bitrates from 16 to 128 kbps/channel.
+License: BSD 3-Clause
+
+Package: libvorbis-static
+Version: 1.3.7-1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1116
+Depends: libvorbis (= 1.3.7-1)
+Filename: dists/pool/main/libvorbis-static_1.3.7-1_aarch64.deb
+Size: 200356
+MD5sum: 14c1e98078de2cfd29483268d12b754c
+SHA1: 0800db78e96ddb0794eea30ae7079334d67e34bb
+SHA256: 52c58988adbed044d0e8b4dbaed82ebfddf9484157df26e488ad8542c6c8a772
+Homepage: https://xiph.org/vorbis/
+Description: Static libraries for libvorbis.
+License: BSD 3-Clause
+
+Package: libxml2
+Version: 2.9.14
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 6004
+Depends: libiconv, liblzma, zlib
+Breaks: libxml2-dev
+Replaces: libxml2-dev
+Filename: dists/pool/main/libxml2_2.9.14_aarch64.deb
+Size: 896924
+MD5sum: 9fb4dd1ed4652e34d8cd32054efabb05
+SHA1: 2c46fcdbf899adae2ca9acd9dd3352abadb5f89e
+SHA256: 416260644a1bb6d8714358326df178fb6dd67bc0bfe432ce412d0049debabfa5
+Homepage: http://www.xmlsoft.org
+Description: Library for parsing XML documents
+License: MIT
+
+Package: libxml2-static
+Version: 2.9.14
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 2568
+Depends: libxml2 (= 2.9.14)
+Filename: dists/pool/main/libxml2-static_2.9.14_aarch64.deb
+Size: 521520
+MD5sum: ebdbd53922effd8b1a8a4c89fefc28bb
+SHA1: 19e5f61da76bcb26e6239adda77c7586f5e442b3
+SHA256: 7a2dfc7c85f837dc6f4bb69f14ee13cad1e7d4e64a5a952b6a2221fe1f7dbc87
+Homepage: http://www.xmlsoft.org
+Description: Static libraries for libxml2
+License: MIT
+
+Package: libxml2-utils
+Version: 2.9.14
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 180
+Depends: libxml2 (= 2.9.14)
+Filename: dists/pool/main/libxml2-utils_2.9.14_aarch64.deb
+Size: 30408
+MD5sum: 533178d0de27447e762e9a244426ac54
+SHA1: 5e78ed7e76ac14cc17e31b245edeb040de248a3c
+SHA256: 6a057b668760b0c1bdef7c8a46f1802cfb7639fa23fd51144164fd8938d6096d
+Homepage: http://www.xmlsoft.org
+Description: XML utilities
+License: MIT
+
+Package: nano
+Version: 6.3-2
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1012
+Depends: libandroid-support, libandroid-glob, ncurses
+Filename: dists/pool/main/nano_6.3-2_aarch64.deb
+Size: 239068
+MD5sum: 2136581cecc86c1195dc76ee378fd20b
+SHA1: 6e9fb6932d85e439651e6161b21f293963af99ab
+SHA256: 40e52e29abebe5fd23d422ec0bea7ad7d56d6bf6ff2a0cbf497aba9e4f5d3f89
+Homepage: https://www.nano-editor.org/
+Description: GNU nano was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
+License: GPL-3.0
+
+Package: ncurses
+Version: 6.3
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 9152
+Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
+Filename: dists/pool/main/ncurses_6.3_aarch64.deb
+Size: 788728
+MD5sum: 9cd5edaa473286e3a6581c5fffa2345f
+SHA1: fa696bc7d7e76659acc86f01491ad2604216ff40
+SHA256: 3d7717eacaacf89cd93c6ccf978e10b40e91d78bf83368e76699a25de472ec6b
+Homepage: https://invisible-island.net/ncurses/
+Description: The ncurses (new curses) library is a free software emulation of curses in System V Release 4.0 (SVr4), and more.
+License: MIT
+
+Package: ncurses-static
+Version: 6.3
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1048
+Depends: ncurses (= 6.3)
+Filename: dists/pool/main/ncurses-static_6.3_aarch64.deb
+Size: 201764
+MD5sum: 00e5c7151e137bf6ac88d17b769dabd4
+SHA1: f4effc01615cf258ccfe8af56bd0de559accb838
+SHA256: 0b0f4788d559426c8fc8074a5e5b143a35760831efc663e8e5b0ebda55a86dab
+Homepage: https://invisible-island.net/ncurses/
+Description: Static libraries for ncurses
+License: MIT
+
+Package: ncurses-ui-libs
+Version: 6.3
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 192
+Depends: ncurses (= 6.3)
+Filename: dists/pool/main/ncurses-ui-libs_6.3_aarch64.deb
+Size: 37064
+MD5sum: 1daa099238462ab84d80a9f86387eda2
+SHA1: 8085d730a4c927cf287b77da6ea05da40b1bcb5e
+SHA256: 7be16838d03547ab89fd82c1a06deb04d3ac5492cb3404feb502806ef06fa4f7
+Homepage: https://invisible-island.net/ncurses/
+Description: Libraries for terminal user interfaces based on ncurses.
+License: MIT
+
+Package: ncurses-ui-libs-static
+Version: 6.3
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 268
+Depends: ncurses (= 6.3)
+Filename: dists/pool/main/ncurses-ui-libs-static_6.3_aarch64.deb
+Size: 41612
+MD5sum: 9242422442f85043d1d182997c42c962
+SHA1: 2e12c3ce553658bc510718d1fcb8911d93b335a8
+SHA256: 6f7d5871a701e9258026868a6f621f535034fee1de98d64b3c8bd4b17c59705c
+Homepage: https://invisible-island.net/ncurses/
+Description: Static libraries for terminal user interfaces based on ncurses
+License: MIT
+
+Package: ncurses-utils
+Version: 6.3
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 320
+Depends: ncurses (= 6.3)
+Filename: dists/pool/main/ncurses-utils_6.3_aarch64.deb
+Size: 90384
+MD5sum: a910a25d0593d3a26f64e5c346f47b6c
+SHA1: 83b68b85a15579b7d1d8ab975b372b71910851a8
+SHA256: 9f5b48b51479c2ae4e1d605bfb075c3d5458d567be108e2ac640d13c7c33c0c6
+Homepage: https://invisible-island.net/ncurses/
+Description: Tools for working with terminals.
+License: MIT
+
+Package: opusfile
+Version: 0.12
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 268
+Depends: libopus, libogg
+Breaks: opusfile-dev
+Replaces: opusfile-dev
+Filename: dists/pool/main/opusfile_0.12_aarch64.deb
+Size: 48476
+MD5sum: 132057d6232cd6fbb9eb3c30bbfed1b1
+SHA1: d8583abe8a6d072023bacc2cf734ec60be53ba91
+SHA256: f9c09bbd6c7b660ba50d6f68dfc766e2ac6ad7dbb8ced737cbb2874073b11e7c
+Homepage: https://www.opus-codec.org/
+Description: A high-level API for decoding and seeking within .opus files.
+License: BSD
+
+Package: opusfile-static
+Version: 0.12
+Architecture: aarch64
+Maintainer: X-Nice Craft <xnicecraft@gmail.com>
+Installed-Size: 108
+Depends: opusfile (= 0.12)
+Filename: dists/pool/main/opusfile-static_0.12_aarch64.deb
+Size: 25620
+MD5sum: e15aa33cf2ee0043249cb35fad859b9a
+SHA1: 0401e25357b42f3772b8c4c085b2a061e7bf2dd4
+SHA256: 0625ca43d935ac047d51d0ef02117e0959742a54f9f40acc293caf542fd589cb
+Homepage: https://www.opus-codec.org/
+Description: Static libraries for opusfile.
+License: BSD
+
+Package: xz-utils
+Version: 5.2.5
+Architecture: aarch64
+Essential: yes
+Maintainer: X-Nice Craft
+Installed-Size: 312
+Depends: liblzma (= 5.2.5)
+Filename: dists/pool/main/xz-utils_5.2.5_aarch64.deb
+Size: 58044
+MD5sum: f8610fcde4698c62874e5940836c6146
+SHA1: b7b52f4802d0f412f73c79a2720053d7beece78c
+SHA256: 5a7f13db3d6c14edc52370a1aa5d3d3210e06cb07abb6f5ebd609879c9f7ef40
+Homepage: https://tukaani.org/xz/
+Description: XZ-format compression tools
+License: GNU LGPLv2.1, GNU GPLv2, or GNU GPLv3
+
+Package: zlib
+Version: 1.2.12-2
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 292
+Breaks: ndk-sysroot (<< 19b-3), zlib-dev
+Replaces: ndk-sysroot (<< 19b-3), zlib-dev
+Filename: dists/pool/main/zlib_1.2.12-2_aarch64.deb
+Size: 67600
+MD5sum: 03f194a6ce310c21a3efd9d5ea27cdee
+SHA1: c42451e7e0fc07aaf7f4b28dec971f849c9e4045
+SHA256: 76592dec92f69d66dde625f27d3eaf1d911897c963c8e5823eda37b285ec9b9e
+Homepage: https://www.zlib.net/
+Description: Compression library implementing the deflate compression method found in gzip and PKZIP
+License: ZLIB
+
+Package: zlib-static
+Version: 1.2.12-2
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 156
+Depends: zlib (= 1.2.12-2)
+Filename: dists/pool/main/zlib-static_1.2.12-2_aarch64.deb
+Size: 41488
+MD5sum: 0c92ebcd0e00ad8d28d2db79616b4a08
+SHA1: 96c31607e5e6857433875f3104a472f134c58872
+SHA256: 0059bbfe9c7e3e449c9f85683b1734931af556311048eef30cabf45e1823cb91
+Homepage: https://www.zlib.net/
+Description: Static libraries for zlib.
+License: ZLIB
+
