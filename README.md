@@ -12,8 +12,6 @@ This repository provide termux packages for Aarch64 Android 5 that aren't mainta
 
 ### Packages still aren't recompiled
 - fdkaac
-- flac
-- libflac
 - libjpeg
 
 ### Toolchain Changelog
