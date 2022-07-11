@@ -5,6 +5,7 @@ Codename: stable
 Architectures: aarch64
 Components: main
 Description: APT Repo by X-Nice Craft for Android 5+
+Date: Mon, 11 Jul 2022 05:30:03 +0000
 MD5Sum:
  e15aa33cf2ee0043249cb35fad859b9a 25620 main/opusfile-static_0.12_aarch64.deb
  3975fb2c3759a76ba279cfe93993d26e 10712 main/expat_2.4.8_aarch64.deb
