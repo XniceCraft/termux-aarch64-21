@@ -3,7 +3,7 @@ Version: 0.2.0
 Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 80
-Filename: dists/stable/main/alac-decoder_0.2.0-1_aarch64.deb
+Filename: main/alac-decoder_0.2.0-1_aarch64.deb
 Size: 15892
 MD5sum: f0e739bef7d8cd22a55df10a75f37505
 SHA1: 470479f06686ce0486b15691c0a15113b2af5ecd
@@ -18,7 +18,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 68
 Depends: libexpat (= 2.4.8)
-Filename: dists/stable/main/expat_2.4.8_aarch64.deb
+Filename: main/expat_2.4.8_aarch64.deb
 Size: 10712
 MD5sum: 3975fb2c3759a76ba279cfe93993d26e
 SHA1: 20221130674508c660ed1e0903f24f52d4690281
@@ -33,7 +33,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 180
 Depends: libfdk-aac
-Filename: dists/stable/main/fdkaac_1.0.2-1_aarch64.deb
+Filename: main/fdkaac_1.0.2-1_aarch64.deb
 Size: 44364
 MD5sum: 12d2c0ba5fbafdb37a01cdf4463aaa0c
 SHA1: 32062f3a312efa9f4a3b9fb5391e79ea22c4c911
@@ -48,7 +48,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 456
 Depends: libflac (= 1.3.4-1)
-Filename: dists/stable/main/flac_1.3.4-1_aarch64.deb
+Filename: main/flac_1.3.4-1_aarch64.deb
 Size: 112184
 MD5sum: 98351810ef63cbd02942f286e6a0de3f
 SHA1: b654a4a33a7b84515a38da48dae9174a0e477630
@@ -63,7 +63,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 68
 Depends: libiconv (= 1.17-1)
-Filename: dists/stable/main/iconv_1.17-1_aarch64.deb
+Filename: main/iconv_1.17-1_aarch64.deb
 Size: 10784
 MD5sum: c75db9ce09d817120549c22c2f730aba
 SHA1: 086a36c2b1c61f4d879dd967a086905c995c49b2
@@ -78,7 +78,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 92
 Depends: libjpeg-turbo
-Filename: dists/stable/main/jpegoptim_1.4.7_aarch64.deb
+Filename: main/jpegoptim_1.4.7_aarch64.deb
 Size: 15564
 MD5sum: 47e3d3f06d39e270b2ce6cf41ec9145b
 SHA1: 563b6a19902a5894da75938e35fa63b9f573c00c
@@ -94,7 +94,7 @@ Maintainer: X-Nice Craft <xnicecraft@gmail.com>
 Installed-Size: 68
 Breaks: libandroid-glob-dev
 Replaces: libandroid-glob-dev
-Filename: dists/stable/main/libandroid-glob_0.6_aarch64.deb
+Filename: main/libandroid-glob_0.6_aarch64.deb
 Size: 8112
 MD5sum: 44744ba479f13574aeb975096af5dcca
 SHA1: fe49a7f7700c20c041a810f2e4e74de400a213dc
@@ -109,7 +109,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft <xnicecraft@gmail.com>
 Installed-Size: 40
 Depends: libandroid-glob (= 0.6)
-Filename: dists/stable/main/libandroid-glob-static_0.6_aarch64.deb
+Filename: main/libandroid-glob-static_0.6_aarch64.deb
 Size: 5408
 MD5sum: 2cf89c95b6e23fe9f112f0f58f7ab159
 SHA1: 8d072d1e3290c33016c28e759b91491dc750cf50
@@ -123,7 +123,7 @@ Version: 0.1
 Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 56
-Filename: dists/stable/main/libandroid-posix-semaphore_0.1_aarch64.deb
+Filename: main/libandroid-posix-semaphore_0.1_aarch64.deb
 Size: 4452
 MD5sum: cdb5bd2b95f822a3af15e47fde7f0a7b
 SHA1: 01ff5494407812ce474dda378da818febb4d5269
@@ -138,7 +138,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 36
 Depends: libandroid-posix-semaphore (= 0.1)
-Filename: dists/stable/main/libandroid-posix-semaphore-static_0.1_aarch64.deb
+Filename: main/libandroid-posix-semaphore-static_0.1_aarch64.deb
 Size: 3152
 MD5sum: 83e5b429317d135bbe61701f754097b3
 SHA1: 77dd15ff056e7bee17a41ab1b7bb3c30444bec33
@@ -154,7 +154,7 @@ Essential: yes
 Maintainer: X-Nice Craft
 Installed-Size: 80
 Pre-Depends: dpkg (>= 1.19.4-3)
-Filename: dists/stable/main/libandroid-support_28_aarch64.deb
+Filename: main/libandroid-support_28_aarch64.deb
 Size: 11704
 MD5sum: 76ffb3c5ae65ebc01fcab8b295f897a8
 SHA1: 62956e876dad7e7a3b64ac36a6384d21ec33716a
@@ -169,7 +169,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 72
 Depends: libandroid-support (= 28)
-Filename: dists/stable/main/libandroid-support-static_28_aarch64.deb
+Filename: main/libandroid-support-static_28_aarch64.deb
 Size: 9096
 MD5sum: 2c30e14b5f03c8b9e59d7ffc0f350c2f
 SHA1: 9514006478f2ee9eed0b61e5b0c27730e0ed9cde
@@ -184,7 +184,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 1132
 Depends: libc++
-Filename: dists/stable/main/libde265_1.0.8_aarch64.deb
+Filename: main/libde265_1.0.8_aarch64.deb
 Size: 295596
 MD5sum: 2b0c4f3f305c3f2849c2568dacf8c9e8
 SHA1: 179df5916ca998a3d226475a2b4e8b811416b6d7
@@ -199,7 +199,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 692
 Depends: libde265 (= 1.0.8)
-Filename: dists/stable/main/libde265-examples_1.0.8_aarch64.deb
+Filename: main/libde265-examples_1.0.8_aarch64.deb
 Size: 103876
 MD5sum: 5ab37a3b2e4826c2280b2d5b9a07c47c
 SHA1: 3fbdb860837ec1fb18e540587358fae3c51767a1
@@ -214,7 +214,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 1760
 Depends: libde265 (= 1.0.8)
-Filename: dists/stable/main/libde265-static_1.0.8_aarch64.deb
+Filename: main/libde265-static_1.0.8_aarch64.deb
 Size: 325320
 MD5sum: f419366dc16619e515c5823d9da6860d
 SHA1: 64595a086d2e45663cd10f4f0f9a8c133c607adc
@@ -230,7 +230,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 388
 Breaks: libexpat-dev
 Replaces: libexpat-dev
-Filename: dists/stable/main/libexpat_2.4.8_aarch64.deb
+Filename: main/libexpat_2.4.8_aarch64.deb
 Size: 88392
 MD5sum: 5a46f10444c218d7bbd49231bfe55ffe
 SHA1: e19561f7e73843f8c94d08a5d445c9a0b7f8de11
@@ -245,7 +245,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 260
 Depends: libexpat (= 2.4.8)
-Filename: dists/stable/main/libexpat-static_2.4.8_aarch64.deb
+Filename: main/libexpat-static_2.4.8_aarch64.deb
 Size: 58952
 MD5sum: db3782915771ab04bb4a34054c1b100f
 SHA1: efb3b1005a4295227f03e0281f9dc743575f71de
@@ -261,7 +261,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 2004
 Breaks: libfdk-aac-dev
 Replaces: libfdk-aac-dev
-Filename: dists/stable/main/libfdk-aac_2.0.2-1_aarch64.deb
+Filename: main/libfdk-aac_2.0.2-1_aarch64.deb
 Size: 752104
 MD5sum: b39408d7e843e600c8653e097dabd09e
 SHA1: b90b04182a825b117f5efbcc0973f780125131e5
@@ -275,7 +275,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 2384
 Depends: libfdk-aac (= 2.0.2-1)
-Filename: dists/stable/main/libfdk-aac-static_2.0.2-1_aarch64.deb
+Filename: main/libfdk-aac-static_2.0.2-1_aarch64.deb
 Size: 766052
 MD5sum: 6ea80c26c4f03a24f57c8f621c9a26c6
 SHA1: d1213f7e409223e192c59bbe89880aed5fc3cb42
@@ -291,7 +291,7 @@ Installed-Size: 1960
 Depends: libc++, libogg
 Breaks: libflac-dev
 Replaces: libflac-dev
-Filename: dists/stable/main/libflac_1.3.4-1_aarch64.deb
+Filename: main/libflac_1.3.4-1_aarch64.deb
 Size: 274048
 MD5sum: e47035605c6a3aff1bcdbf96b4b1e466
 SHA1: 933ec887cb19ab22d14f054ec95f78ca508d3f55
@@ -306,7 +306,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 568
 Depends: libflac (= 1.3.4-1)
-Filename: dists/stable/main/libflac-static_1.3.4-1_aarch64.deb
+Filename: main/libflac-static_1.3.4-1_aarch64.deb
 Size: 123860
 MD5sum: a10614eac9362c64e3e4be712fa876a3
 SHA1: eb82e91994cf266d08d18998adbd4d89e02a6a14
@@ -322,7 +322,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 1300
 Breaks: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
 Replaces: libandroid-support (<= 24), libiconv-dev, libandroid-support-dev
-Filename: dists/stable/main/libiconv_1.17-1_aarch64.deb
+Filename: main/libiconv_1.17-1_aarch64.deb
 Size: 560828
 MD5sum: eb9d099002b65efa5933a41a37a7045b
 SHA1: 6c27b362d51fe4eae05a9d93a2fa134083760fde
@@ -337,7 +337,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 1220
 Depends: libiconv (= 1.17-1)
-Filename: dists/stable/main/libiconv-static_1.17-1_aarch64.deb
+Filename: main/libiconv-static_1.17-1_aarch64.deb
 Size: 553288
 MD5sum: 90f95dc49912f2f1b4f6965a9076f11a
 SHA1: 273e098db9f661017db7cc4b4ad79ab0ca6b254f
@@ -354,7 +354,7 @@ Installed-Size: 1732
 Conflicts: libjpeg
 Breaks: libjpeg-turbo-dev
 Replaces: libjpeg-turbo-dev
-Filename: dists/stable/main/libjpeg-turbo_2.1.3-1_aarch64.deb
+Filename: main/libjpeg-turbo_2.1.3-1_aarch64.deb
 Size: 330620
 MD5sum: 96e6b2d7251b6a111fe8330df8b61638
 SHA1: 44f3a343316bf2e90c9c0b675f82c0e46d44c53c
@@ -370,7 +370,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 400
 Depends: libjpeg-turbo (= 2.1.3-1)
 Conflicts: libjpeg-progs
-Filename: dists/stable/main/libjpeg-turbo-progs_2.1.3-1_aarch64.deb
+Filename: main/libjpeg-turbo-progs_2.1.3-1_aarch64.deb
 Size: 85428
 MD5sum: 4bf22750579f41f3bef12ac76397e3b8
 SHA1: 0f0e003b27e04a38eaecf222ec7101b2d8aa89a7
@@ -386,7 +386,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 1436
 Depends: libjpeg-turbo (= 2.1.3-1)
 Conflicts: libjpeg-static
-Filename: dists/stable/main/libjpeg-turbo-static_2.1.3-1_aarch64.deb
+Filename: main/libjpeg-turbo-static_2.1.3-1_aarch64.deb
 Size: 215524
 MD5sum: 0b0d3147d4522384a34377be1ea476b0
 SHA1: add2d4a2710a2d1be2faeace6fd05e502c6f30a0
@@ -403,7 +403,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 652
 Breaks: liblzma-dev
 Replaces: liblzma-dev
-Filename: dists/stable/main/liblzma_5.2.5_aarch64.deb
+Filename: main/liblzma_5.2.5_aarch64.deb
 Size: 149720
 MD5sum: 7b844e6794289acfcb2d12f309c45d86
 SHA1: 984a87cb5d21f180e8af2ac34d925b9f9e284139
@@ -418,7 +418,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 320
 Depends: liblzma (= 5.2.5)
-Filename: dists/stable/main/liblzma-static_5.2.5_aarch64.deb
+Filename: main/liblzma-static_5.2.5_aarch64.deb
 Size: 82764
 MD5sum: 7d30e64622923258d531f68e95858746
 SHA1: 9262938b30abe07983ebc87e8034baeef4768f78
@@ -434,7 +434,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 196
 Breaks: libmad-dev
 Replaces: libmad-dev
-Filename: dists/stable/main/libmad_0.15.1b-1_aarch64.deb
+Filename: main/libmad_0.15.1b-1_aarch64.deb
 Size: 58256
 MD5sum: 231d4c57213f6b8845326bbd7a869f6d
 SHA1: e272bdd19a82bce44394ac586a3eedf61307d6c3
@@ -449,7 +449,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 176
 Depends: libmad (= 0.15.1b-1)
-Filename: dists/stable/main/libmad-static_0.15.1b-1_aarch64.deb
+Filename: main/libmad-static_0.15.1b-1_aarch64.deb
 Size: 52488
 MD5sum: c78e5af6605a2ca9f59ee84b6de90993
 SHA1: c7512310a780a1e325b4cbd3fd57ede359e6b286
@@ -465,7 +465,7 @@ Maintainer: X-Nice Craft <xnicecraft@gmail.com>
 Installed-Size: 692
 Breaks: libogg-dev
 Replaces: libogg-dev
-Filename: dists/stable/main/libogg_1.3.5-1_aarch64.deb
+Filename: main/libogg_1.3.5-1_aarch64.deb
 Size: 189204
 MD5sum: 77200131f920a738478a1ce2315744f8
 SHA1: e77220c974a81fe90b3220abbb489556a68aa975
@@ -480,7 +480,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft <xnicecraft@gmail.com>
 Installed-Size: 68
 Depends: libogg (= 1.3.5-1)
-Filename: dists/stable/main/libogg-static_1.3.5-1_aarch64.deb
+Filename: main/libogg-static_1.3.5-1_aarch64.deb
 Size: 17744
 MD5sum: f8f4ec46faf8984d6dae007cd1043a82
 SHA1: 6efbe017e8de6f03e0dad4dd44e052f51653c5a2
@@ -496,7 +496,7 @@ Maintainer: X-Nice Craft <xnicecraft@gmail.com>
 Installed-Size: 764
 Breaks: libopus-dev
 Replaces: libopus-dev
-Filename: dists/stable/main/libopus_1.3.1-1_aarch64.deb
+Filename: main/libopus_1.3.1-1_aarch64.deb
 Size: 278940
 MD5sum: 06e438e318710dc4e96f0137211054d1
 SHA1: b9b23da87294baef684c3990cd1d95508c136df4
@@ -511,7 +511,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft <xnicecraft@gmail.com>
 Installed-Size: 844
 Depends: libopus (= 1.3.1-1)
-Filename: dists/stable/main/libopus-static_1.3.1-1_aarch64.deb
+Filename: main/libopus-static_1.3.1-1_aarch64.deb
 Size: 280896
 MD5sum: 71a7154523fbaf5b2088eb26fd34f1a3
 SHA1: 20ce363eba1e8b025f6faca8d0a674305555e9c7
@@ -528,7 +528,7 @@ Installed-Size: 2008
 Depends: libogg
 Breaks: libvorbis-dev
 Replaces: libvorbis-dev
-Filename: dists/stable/main/libvorbis_1.3.7-1_aarch64.deb
+Filename: main/libvorbis_1.3.7-1_aarch64.deb
 Size: 319528
 MD5sum: ac483f143bf78044518227ce2b03c2a6
 SHA1: 52c130d82743b374b6ad0539919bb206f7b6ab01
@@ -543,7 +543,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 1116
 Depends: libvorbis (= 1.3.7-1)
-Filename: dists/stable/main/libvorbis-static_1.3.7-1_aarch64.deb
+Filename: main/libvorbis-static_1.3.7-1_aarch64.deb
 Size: 200356
 MD5sum: 14c1e98078de2cfd29483268d12b754c
 SHA1: 0800db78e96ddb0794eea30ae7079334d67e34bb
@@ -560,7 +560,7 @@ Installed-Size: 6004
 Depends: libiconv, liblzma, zlib
 Breaks: libxml2-dev
 Replaces: libxml2-dev
-Filename: dists/stable/main/libxml2_2.9.14_aarch64.deb
+Filename: main/libxml2_2.9.14_aarch64.deb
 Size: 896924
 MD5sum: 9fb4dd1ed4652e34d8cd32054efabb05
 SHA1: 2c46fcdbf899adae2ca9acd9dd3352abadb5f89e
@@ -575,7 +575,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 2568
 Depends: libxml2 (= 2.9.14)
-Filename: dists/stable/main/libxml2-static_2.9.14_aarch64.deb
+Filename: main/libxml2-static_2.9.14_aarch64.deb
 Size: 521520
 MD5sum: ebdbd53922effd8b1a8a4c89fefc28bb
 SHA1: 19e5f61da76bcb26e6239adda77c7586f5e442b3
@@ -590,7 +590,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 180
 Depends: libxml2 (= 2.9.14)
-Filename: dists/stable/main/libxml2-utils_2.9.14_aarch64.deb
+Filename: main/libxml2-utils_2.9.14_aarch64.deb
 Size: 30408
 MD5sum: 533178d0de27447e762e9a244426ac54
 SHA1: 5e78ed7e76ac14cc17e31b245edeb040de248a3c
@@ -605,7 +605,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 1012
 Depends: libandroid-support, libandroid-glob, ncurses
-Filename: dists/stable/main/nano_6.3-2_aarch64.deb
+Filename: main/nano_6.3-2_aarch64.deb
 Size: 239068
 MD5sum: 2136581cecc86c1195dc76ee378fd20b
 SHA1: 6e9fb6932d85e439651e6161b21f293963af99ab
@@ -621,7 +621,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 9152
 Breaks: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
 Replaces: ncurses-dev, ncurses-utils (<< 6.1.20190511-4)
-Filename: dists/stable/main/ncurses_6.3_aarch64.deb
+Filename: main/ncurses_6.3_aarch64.deb
 Size: 788728
 MD5sum: 9cd5edaa473286e3a6581c5fffa2345f
 SHA1: fa696bc7d7e76659acc86f01491ad2604216ff40
@@ -636,7 +636,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 1048
 Depends: ncurses (= 6.3)
-Filename: dists/stable/main/ncurses-static_6.3_aarch64.deb
+Filename: main/ncurses-static_6.3_aarch64.deb
 Size: 201764
 MD5sum: 00e5c7151e137bf6ac88d17b769dabd4
 SHA1: f4effc01615cf258ccfe8af56bd0de559accb838
@@ -651,7 +651,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 192
 Depends: ncurses (= 6.3)
-Filename: dists/stable/main/ncurses-ui-libs_6.3_aarch64.deb
+Filename: main/ncurses-ui-libs_6.3_aarch64.deb
 Size: 37064
 MD5sum: 1daa099238462ab84d80a9f86387eda2
 SHA1: 8085d730a4c927cf287b77da6ea05da40b1bcb5e
@@ -666,7 +666,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 268
 Depends: ncurses (= 6.3)
-Filename: dists/stable/main/ncurses-ui-libs-static_6.3_aarch64.deb
+Filename: main/ncurses-ui-libs-static_6.3_aarch64.deb
 Size: 41612
 MD5sum: 9242422442f85043d1d182997c42c962
 SHA1: 2e12c3ce553658bc510718d1fcb8911d93b335a8
@@ -681,7 +681,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 320
 Depends: ncurses (= 6.3)
-Filename: dists/stable/main/ncurses-utils_6.3_aarch64.deb
+Filename: main/ncurses-utils_6.3_aarch64.deb
 Size: 90384
 MD5sum: a910a25d0593d3a26f64e5c346f47b6c
 SHA1: 83b68b85a15579b7d1d8ab975b372b71910851a8
@@ -698,7 +698,7 @@ Installed-Size: 268
 Depends: libopus, libogg
 Breaks: opusfile-dev
 Replaces: opusfile-dev
-Filename: dists/stable/main/opusfile_0.12_aarch64.deb
+Filename: main/opusfile_0.12_aarch64.deb
 Size: 48476
 MD5sum: 132057d6232cd6fbb9eb3c30bbfed1b1
 SHA1: d8583abe8a6d072023bacc2cf734ec60be53ba91
@@ -713,7 +713,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft <xnicecraft@gmail.com>
 Installed-Size: 108
 Depends: opusfile (= 0.12)
-Filename: dists/stable/main/opusfile-static_0.12_aarch64.deb
+Filename: main/opusfile-static_0.12_aarch64.deb
 Size: 25620
 MD5sum: e15aa33cf2ee0043249cb35fad859b9a
 SHA1: 0401e25357b42f3772b8c4c085b2a061e7bf2dd4
@@ -729,7 +729,7 @@ Essential: yes
 Maintainer: X-Nice Craft
 Installed-Size: 312
 Depends: liblzma (= 5.2.5)
-Filename: dists/stable/main/xz-utils_5.2.5_aarch64.deb
+Filename: main/xz-utils_5.2.5_aarch64.deb
 Size: 58044
 MD5sum: f8610fcde4698c62874e5940836c6146
 SHA1: b7b52f4802d0f412f73c79a2720053d7beece78c
@@ -745,7 +745,7 @@ Maintainer: X-Nice Craft
 Installed-Size: 292
 Breaks: ndk-sysroot (<< 19b-3), zlib-dev
 Replaces: ndk-sysroot (<< 19b-3), zlib-dev
-Filename: dists/stable/main/zlib_1.2.12-2_aarch64.deb
+Filename: main/zlib_1.2.12-2_aarch64.deb
 Size: 67600
 MD5sum: 03f194a6ce310c21a3efd9d5ea27cdee
 SHA1: c42451e7e0fc07aaf7f4b28dec971f849c9e4045
@@ -760,7 +760,7 @@ Architecture: aarch64
 Maintainer: X-Nice Craft
 Installed-Size: 156
 Depends: zlib (= 1.2.12-2)
-Filename: dists/stable/main/zlib-static_1.2.12-2_aarch64.deb
+Filename: main/zlib-static_1.2.12-2_aarch64.deb
 Size: 41488
 MD5sum: 0c92ebcd0e00ad8d28d2db79616b4a08
 SHA1: 96c31607e5e6857433875f3104a472f134c58872
