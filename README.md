@@ -2,10 +2,10 @@
 ### About
 This repository provide termux packages for Aarch64 Android 5 that aren't maintained anymore with official termux apt. This repository is open source.
 
-<img src="https://img.shields.io/badge/Clang-14-informational?style=for-the-badge&logo=llvm">
+<img src="https://img.shields.io/badge/Clang-14-informational?style=for-the-badge&logo=llvm"> <img src="https://img.shields.io/github/repo-size/XniceCraft/termux-aarch64-21?label=SIZE&style=for-the-badge">
 
 ### Toolchain Download
-Gdrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" style="width: 20px;heigth: 20px;"> GDrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
 
 ### Upcoming Update
 - Rebuild packages that compiled with Clang 5.0.
