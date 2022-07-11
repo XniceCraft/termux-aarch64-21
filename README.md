@@ -8,11 +8,7 @@ This repository provide termux packages for Aarch64 Android 5 that aren't mainta
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" style="width: 20px;heigth: 20px;"> GDrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
 
 ### Upcoming Update
-- Rebuild packages that compiled with Clang 5.0.
-
-### Packages still aren't recompiled
-- fdkaac
-- libjpeg
+- APT Repo will added
 
 ### Toolchain Changelog
 - Removing x86_64-linux-android i686-linux-android arm-linux-androideabi and aarch64-linux-android23-32 toolchains to decrease size
