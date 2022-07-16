@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bash
+#!/data/data/com.termux/files/usr/bin/bash
 apt update
 apt install wget gnupg -y
 mkdir -p $PREFIX/etc/apt/
