@@ -4,11 +4,12 @@ This repository provide termux packages for Aarch64 Android 5 that aren't mainta
 
 <img src="https://img.shields.io/badge/Clang-14-informational?style=for-the-badge&logo=llvm"> <img src="https://img.shields.io/github/repo-size/XniceCraft/termux-aarch64-21?label=SIZE&style=for-the-badge">
 
+### How to add this repo?
+1. ’’’wget https://xnicecraft.github.io/termux-aarch64-21/setup-apt.sh’’’
+2. ’’’./setup-apt.sh’’’
+
 ### Toolchain Download
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" style="width: 20px;heigth: 20px;"> GDrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
-
-### Upcoming Update
-- APT Repo will added
 
 ### Toolchain Changelog
 - Removing x86_64-linux-android i686-linux-android arm-linux-androideabi and aarch64-linux-android23-32 toolchains to decrease size
