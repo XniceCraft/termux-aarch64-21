@@ -6,7 +6,8 @@ This repository provide termux packages for Aarch64 Android 5 that aren't mainta
 
 ### How to add this repo?
 1. ```wget https://xnicecraft.github.io/termux-aarch64-21/setup-apt.sh```
-2. ```./setup-apt.sh```
+2. ```chmod +x setup-apt.sh```
+3. ```./setup-apt.sh```
 
 ### Toolchain Download
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" style="width: 20px;heigth: 20px;"> GDrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
