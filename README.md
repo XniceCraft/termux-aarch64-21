@@ -46,7 +46,7 @@ RANLIB=${TOOLCHAIN}/bin/llvm-ranlib \
 READELF=${TOOLCHAIN}/bin/llvm-readelf \
 SIZE=${TOOLCHAIN}/bin/llvm-size \
 STRINGS=${TOOLCHAIN}/bin/llvm-strings \
-CFLAGS="-march=armv8-a+simd -mtune=cortex-a53 -mcpu=cortex-a53 -fPIE -fPIC -O2 -mlittle-endian -fassociative-math -mfix-cortex-a53-835769 -fstack-protector-strong -fuse-ld=lld -Wno-unused-command-line-argument " \
+CFLAGS="-march=armv8-a+simd -mtune=cortex-a53 -mcpu=cortex-a53 -fPIE -fPIC -O3 -mlittle-endian -fassociative-math -mfix-cortex-a53-835769 -fstack-protector-strong -fuse-ld=lld -Wno-unused-command-line-argument " \
 LDFLAGS="-pie -L/data/data/com.termux/files/usr/lib -Wl,--as-needed -Wl,-z,relro,-z,now -Wl,--hash-style=sysv " \
 CXXFLAGS="${CFLAGS}" \
 CPPFLAGS="-I/data/data/com.termux/files/usr/include " \
