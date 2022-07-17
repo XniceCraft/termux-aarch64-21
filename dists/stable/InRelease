@@ -8,14 +8,14 @@ Codename: stable
 Architectures: aarch64
 Components: main
 Description: APT Repo by X-Nice Craft for Android 5+
-Date: Sun, 17 Jul 2022 12:21:53 +0000
+Date: Sun, 17 Jul 2022 13:34:12 +0000
 MD5Sum:
  83e5b429317d135bbe61701f754097b3 3152 main/binary-aarch64/libandroid-posix-semaphore-static_0.1_aarch64.deb
  498bfaa197ff1892186b99c937dfdaae 31884 main/binary-aarch64/libffi_3.4.2_aarch64.deb
  9cd5edaa473286e3a6581c5fffa2345f 788728 main/binary-aarch64/ncurses_6.3_aarch64.deb
  f0e739bef7d8cd22a55df10a75f37505 15892 main/binary-aarch64/alac-decoder_0.2.0-1_aarch64.deb
  90f95dc49912f2f1b4f6965a9076f11a 553288 main/binary-aarch64/libiconv-static_1.17-1_aarch64.deb
- 6b47dced1536eb425ff65157061005ed 27785 main/binary-aarch64/Packages
+ 27d53e7447d276dcbe15428d2f55f438 28388 main/binary-aarch64/Packages
  1daa099238462ab84d80a9f86387eda2 37064 main/binary-aarch64/ncurses-ui-libs_6.3_aarch64.deb
  e47035605c6a3aff1bcdbf96b4b1e466 274048 main/binary-aarch64/libflac_1.3.4-1_aarch64.deb
  db3782915771ab04bb4a34054c1b100f 58952 main/binary-aarch64/libexpat-static_2.4.8_aarch64.deb
@@ -34,15 +34,16 @@ MD5Sum:
  a910a25d0593d3a26f64e5c346f47b6c 90384 main/binary-aarch64/ncurses-utils_6.3_aarch64.deb
  9fb4dd1ed4652e34d8cd32054efabb05 896924 main/binary-aarch64/libxml2_2.9.14_aarch64.deb
  231d4c57213f6b8845326bbd7a869f6d 58256 main/binary-aarch64/libmad_0.15.1b-1_aarch64.deb
+ 03a7aafa86ce2667dc636aa4b53a224a 233696 main/binary-aarch64/make_4.3_aarch64.deb
  0b0d3147d4522384a34377be1ea476b0 215524 main/binary-aarch64/libjpeg-turbo-static_2.1.3-1_aarch64.deb
- fcc90964b78323396f4490ce8548cd8c 8732 main/binary-aarch64/Packages.gz
+ a244693c6a026b3e3d9ec2fd302cc89e 8944 main/binary-aarch64/Packages.gz
  14c1e98078de2cfd29483268d12b754c 200356 main/binary-aarch64/libvorbis-static_1.3.7-1_aarch64.deb
  7b844e6794289acfcb2d12f309c45d86 149720 main/binary-aarch64/liblzma_5.2.5_aarch64.deb
  f419366dc16619e515c5823d9da6860d 325320 main/binary-aarch64/libde265-static_1.0.8_aarch64.deb
- 0fbeabdca263e942f7fff6282fc6a606 7811 main/binary-aarch64/Packages.bz2
+ ebada822d66c7d07ef120a4c8a4f0c15 7959 main/binary-aarch64/Packages.bz2
  f761d6fa79fd1d85e89fe5064aae50fd 18116 main/binary-aarch64/libffi-static_3.4.2_aarch64.deb
  47e3d3f06d39e270b2ce6cf41ec9145b 15564 main/binary-aarch64/jpegoptim_1.4.7_aarch64.deb
- 60a6ff1ad86ebd63f0630703a6d9bc1d 7968 main/binary-aarch64/Packages.xz
+ 36409f307c118cd2b1e0094b55758c71 8156 main/binary-aarch64/Packages.xz
  3975fb2c3759a76ba279cfe93993d26e 10712 main/binary-aarch64/expat_2.4.8_aarch64.deb
  f8f4ec46faf8984d6dae007cd1043a82 17744 main/binary-aarch64/libogg-static_1.3.5-1_aarch64.deb
  00e5c7151e137bf6ac88d17b769dabd4 201764 main/binary-aarch64/ncurses-static_6.3_aarch64.deb
@@ -72,7 +73,7 @@ SHA1:
  fa696bc7d7e76659acc86f01491ad2604216ff40 788728 main/binary-aarch64/ncurses_6.3_aarch64.deb
  470479f06686ce0486b15691c0a15113b2af5ecd 15892 main/binary-aarch64/alac-decoder_0.2.0-1_aarch64.deb
  273e098db9f661017db7cc4b4ad79ab0ca6b254f 553288 main/binary-aarch64/libiconv-static_1.17-1_aarch64.deb
- 9ae16a681deca500acd5e54c76b6cb73ae3e384f 27785 main/binary-aarch64/Packages
+ 15bbc8e1e0dc41942a6783869cbcfcc18a72a5a7 28388 main/binary-aarch64/Packages
  8085d730a4c927cf287b77da6ea05da40b1bcb5e 37064 main/binary-aarch64/ncurses-ui-libs_6.3_aarch64.deb
  933ec887cb19ab22d14f054ec95f78ca508d3f55 274048 main/binary-aarch64/libflac_1.3.4-1_aarch64.deb
  efb3b1005a4295227f03e0281f9dc743575f71de 58952 main/binary-aarch64/libexpat-static_2.4.8_aarch64.deb
@@ -91,15 +92,16 @@ SHA1:
  83b68b85a15579b7d1d8ab975b372b71910851a8 90384 main/binary-aarch64/ncurses-utils_6.3_aarch64.deb
  2c46fcdbf899adae2ca9acd9dd3352abadb5f89e 896924 main/binary-aarch64/libxml2_2.9.14_aarch64.deb
  e272bdd19a82bce44394ac586a3eedf61307d6c3 58256 main/binary-aarch64/libmad_0.15.1b-1_aarch64.deb
+ 505831b21f5218db93461110b38cc34fdd6a03e9 233696 main/binary-aarch64/make_4.3_aarch64.deb
  add2d4a2710a2d1be2faeace6fd05e502c6f30a0 215524 main/binary-aarch64/libjpeg-turbo-static_2.1.3-1_aarch64.deb
- 82ab16f19f30f4af9af4b1769086d0853e484ca3 8732 main/binary-aarch64/Packages.gz
+ 7d4c5e17762badbcdbcd605ed001af94ebb63640 8944 main/binary-aarch64/Packages.gz
  0800db78e96ddb0794eea30ae7079334d67e34bb 200356 main/binary-aarch64/libvorbis-static_1.3.7-1_aarch64.deb
  984a87cb5d21f180e8af2ac34d925b9f9e284139 149720 main/binary-aarch64/liblzma_5.2.5_aarch64.deb
  64595a086d2e45663cd10f4f0f9a8c133c607adc 325320 main/binary-aarch64/libde265-static_1.0.8_aarch64.deb
- d45ff7a9c4212be48041ae2b354146111e7400eb 7811 main/binary-aarch64/Packages.bz2
+ d2e25d3ffd57c49ce981ad3d04a391e8b9df65de 7959 main/binary-aarch64/Packages.bz2
  8fdc97aa94813b63c82cf99dca3ee49bbd8693ad 18116 main/binary-aarch64/libffi-static_3.4.2_aarch64.deb
  563b6a19902a5894da75938e35fa63b9f573c00c 15564 main/binary-aarch64/jpegoptim_1.4.7_aarch64.deb
- c52b4108b0b604d963b8e7c783b93188ee5f9975 7968 main/binary-aarch64/Packages.xz
+ a9aabb95fc869c6a00f6d8e147fa29d43c1c1ef0 8156 main/binary-aarch64/Packages.xz
  20221130674508c660ed1e0903f24f52d4690281 10712 main/binary-aarch64/expat_2.4.8_aarch64.deb
  6efbe017e8de6f03e0dad4dd44e052f51653c5a2 17744 main/binary-aarch64/libogg-static_1.3.5-1_aarch64.deb
  f4effc01615cf258ccfe8af56bd0de559accb838 201764 main/binary-aarch64/ncurses-static_6.3_aarch64.deb
@@ -129,7 +131,7 @@ SHA256:
  3d7717eacaacf89cd93c6ccf978e10b40e91d78bf83368e76699a25de472ec6b 788728 main/binary-aarch64/ncurses_6.3_aarch64.deb
  fa035d87337fb3392186578959439499787b92f7dd5fe193704adc61aa41c5af 15892 main/binary-aarch64/alac-decoder_0.2.0-1_aarch64.deb
  ee9f28596267ae54e640f06f2d52afc10c6b1a9775ae80f4eb49483c7897229b 553288 main/binary-aarch64/libiconv-static_1.17-1_aarch64.deb
- 877353d3e69e4119b21f356d62c8977fa907cb0918bdfcaa0e7a2ad86cb51d73 27785 main/binary-aarch64/Packages
+ f69ebcc6f8e8a43b0be266c0c0b9eece0ad3cfbe596db49346194ad5a1297ea4 28388 main/binary-aarch64/Packages
  7be16838d03547ab89fd82c1a06deb04d3ac5492cb3404feb502806ef06fa4f7 37064 main/binary-aarch64/ncurses-ui-libs_6.3_aarch64.deb
  e72d64b76ba3602301229ee7f2a55a5723b7e6b21581b8705627cc3f7960ef50 274048 main/binary-aarch64/libflac_1.3.4-1_aarch64.deb
  55aa4b7cf64a8b213b2437a43e70cabf34cd992e596415240a5b60983172edf0 58952 main/binary-aarch64/libexpat-static_2.4.8_aarch64.deb
@@ -148,15 +150,16 @@ SHA256:
  9f5b48b51479c2ae4e1d605bfb075c3d5458d567be108e2ac640d13c7c33c0c6 90384 main/binary-aarch64/ncurses-utils_6.3_aarch64.deb
  416260644a1bb6d8714358326df178fb6dd67bc0bfe432ce412d0049debabfa5 896924 main/binary-aarch64/libxml2_2.9.14_aarch64.deb
  b2f7f32776a1be73b78aab5190e475b7dc1177619cdb27f88e037022206df264 58256 main/binary-aarch64/libmad_0.15.1b-1_aarch64.deb
+ 77e834c4949f8a2ec8704636558585bf8dedce23ea614d3a75986f8560b38294 233696 main/binary-aarch64/make_4.3_aarch64.deb
  4c320cb7d75f407232b8186c6ee98a6fd7e106428b3234a3046db2e38e03aac6 215524 main/binary-aarch64/libjpeg-turbo-static_2.1.3-1_aarch64.deb
- 943fed843f26be99414992f874334422e899410cb5ded1330eb3f5e8a03e1631 8732 main/binary-aarch64/Packages.gz
+ 3fdfafc9a367419c80479a87a0eac899de3c4d227383f142c92be5cebe7812c9 8944 main/binary-aarch64/Packages.gz
  52c58988adbed044d0e8b4dbaed82ebfddf9484157df26e488ad8542c6c8a772 200356 main/binary-aarch64/libvorbis-static_1.3.7-1_aarch64.deb
  787f0b279b5866fea6a75f4342448e8bffe75051650fa6904e125fbf09512b63 149720 main/binary-aarch64/liblzma_5.2.5_aarch64.deb
  36bebd111089b471c2beed7a6d184b8f7acdf6431cb474f6c8fc95f7f89e0701 325320 main/binary-aarch64/libde265-static_1.0.8_aarch64.deb
- 62b1d357ad9b98ecf44124c6613d2d5ae751d13a6afdca956ce11474e8ba6772 7811 main/binary-aarch64/Packages.bz2
+ a78bff636226f4ed196c30e3122e594f3e2681e029b99aefc6f36d474ca62889 7959 main/binary-aarch64/Packages.bz2
  da17ab3be5d31f1ddce8b4bd7c9adb55a3b348deb2f4bed5b824613e1262c170 18116 main/binary-aarch64/libffi-static_3.4.2_aarch64.deb
  ed5e3ddc6987784fccfe35878fba2f30f5c07cbe554799f40deface7e8feaa3a 15564 main/binary-aarch64/jpegoptim_1.4.7_aarch64.deb
- 38e54b4f7b646d4d5d0a043ef931d76b21502113053915e3f4c2470291ac44ff 7968 main/binary-aarch64/Packages.xz
+ c0616974804b4394e69dff94f75db0c6af8915c0afbd6a015a4b443f379909c6 8156 main/binary-aarch64/Packages.xz
  214204cb9e0edaa2bc94d3e07ed2619cb3e368be67f5eaa6a5be7b417b9868dc 10712 main/binary-aarch64/expat_2.4.8_aarch64.deb
  dd0da3717ca0b2d59ce43c3c507d016e4c5d03a05f2ff4f6e243ee8e8df8426d 17744 main/binary-aarch64/libogg-static_1.3.5-1_aarch64.deb
  0b0f4788d559426c8fc8074a5e5b143a35760831efc663e8e5b0ebda55a86dab 201764 main/binary-aarch64/ncurses-static_6.3_aarch64.deb
@@ -182,18 +185,18 @@ SHA256:
  5ee1f935a7610cdbe3847d85adbab4296ca91cfc9181797701dbfbde7cad759e 10784 main/binary-aarch64/iconv_1.17-1_aarch64.deb
 -----BEGIN PGP SIGNATURE-----
 
-iQJJBAEBCgAzFiEENEec5VAYeVKOC3pOCa6osXUywhsFAmLT/uMVHHhuaWNlY3Jh
-ZnRAZ21haWwuY29tAAoJEAmuqLF1MsIb0FUP/icrH9OnX/PRPut+ynPTWQrPmw5L
-IIdYdVLpg4hzx0Y2plgPxtHJmpq/49FatUo3meIMxzyqstLxegMT374W6N65y74i
-vjKUWHpRjMEroMeOdLr91V5cODEvDfuLiM2O0zhEoi5KnYzoWEt6rccHkO2Lk0Zq
-AOsgGr8fZXe6CsT0PNXGNnYnjtEzRYa0eKatxUjWujT3T34cLyTBnqM7SywYByVy
-5wnghjanugV+bcUrCjTtbZBXVTgS8PwmucqylgEzNYP4yfsMB7ORqOkaev85jRcN
-13W4cL1MZHSINawaVpSJzCtR5SHUOaECZbEjLBVfnGZ64w16jRGtHysloTrveuDV
-ippxb6UY+69QGqhybJUVNdYySIdeLoIZCcK3wLvUoVlaazT1XxUpUbstWexXOW3q
-YuvrsI/fMbUSfljWEzXGB8IkeZwx5OVJAm64E+rLcCJWe1almL3YbLSu2N6C6L+E
-lfRQ/Ui3U87mUw8cnZrqxYNC4PhrSJsCAyk9TBFUeqTg/84IvEFnm6eGP1A16gPB
-s1a90kS8h5XnFOmK+3t8UzNySe/6VRDzbTKhYFCTVZh9LFxtWdWp0dRLfBUaW/Ej
-RHUZ3wmsTXwk6kJINH46yBvk89L5cGepxeDOsdFiBK0iHkKLgCqvtzg4XaojWGeo
-5TeWFcqTFYPBnwEl
-=/+aD
+iQJJBAEBCgAzFiEENEec5VAYeVKOC3pOCa6osXUywhsFAmLUD9YVHHhuaWNlY3Jh
+ZnRAZ21haWwuY29tAAoJEAmuqLF1MsIb4AUP/3DJzjmRXnpdmUg9F9Q1cKZQwVkn
+UNnz7Z5QecfNgnhtMT2LrPOwsdq0whwaufny5KvoCyy7UldFNXJKDYZhVE1MKhAe
+pG1mUJ6rymeLthj6oalJfNAVxhv2LJX62CmHn1W2KbRzTiJSpNVftRBMohXwZ8dz
+u0CgNCxj0lGY4GKhknzqirxjbpDcoxcCJexXChd33TISAAxDnHH1H010YpfJ016D
+xYoDuCRTwMwxVgn+ekIXxtYkf/SIcIS49cVpRKbCEGqv9xDYBU3e36HF2hq5mmRa
+VglI6cQ4gy+bwQvYSYtXfnJD7CKSCAV9OLeGVRjCVZzPoGvNpt0eSjSLemST/4Qe
+7A1w1rSuTZlHdpVRikJD9FDjoddYld1enQ2yrdc4CqERZ6pmhE1eHC4pQjf8xrDt
+7ClegVNDz1FZqQttlrCw1+WXHyyQ34LbOwb7ePMQtOmhy1yZVIes9KeIa+mkSzLL
+e3GwmsIfUBPd6XtQMhPaQZM5bhLjffM5Jl9RcZNPkTCwas3kmbUmCYx6sMWG7jWQ
+K61k6I4SOMYrbv00eJBGEhToFxesixVlrCZw5upSTQr0jJWWddTIsLP2LCATSGY1
+QT3SkFIkgmDsI+a59mgZ4wfy1O9ldJwLcX3QFZlCPSXo0wbynf1wFrXpBd03nW4U
+2FQ+noJZDySdH5EA
+=+1FI
 -----END PGP SIGNATURE-----

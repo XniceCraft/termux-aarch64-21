@@ -630,6 +630,23 @@ Homepage: http://www.xmlsoft.org
 Description: XML utilities
 License: MIT
 
+Package: make
+Version: 4.3
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 952
+Conflicts: make-guile
+Breaks: make-dev
+Replaces: make-dev
+Filename: dists/stable/main/binary-aarch64/make_4.3_aarch64.deb
+Size: 233696
+MD5sum: 03a7aafa86ce2667dc636aa4b53a224a
+SHA1: 505831b21f5218db93461110b38cc34fdd6a03e9
+SHA256: 77e834c4949f8a2ec8704636558585bf8dedce23ea614d3a75986f8560b38294
+Homepage: https://www.gnu.org/software/make/
+Description: GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files.
+License: GPL-3.0
+
 Package: nano
 Version: 6.3-2
 Architecture: aarch64
