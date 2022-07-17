@@ -283,6 +283,37 @@ SHA256: 6b2dbf1a96c885b80e4e3dfbe11b8a6cf7885857e45fd652b4739e1909d0f1d1
 Homepage: https://github.com/mstorsjo/fdk-aac
 Description: Static libraries for libfdk-aac.
 
+Package: libffi
+Version: 3.4.2
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 228
+Breaks: libffi-dev
+Replaces: libffi-dev
+Filename: dists/stable/main/binary-aarch64/libffi_3.4.2_aarch64.deb
+Size: 31884
+MD5sum: 498bfaa197ff1892186b99c937dfdaae
+SHA1: 3c17c8e8314835bd6c902c1aa2fe8ae6495af0f7
+SHA256: 0f868aed561151b3c0ba6f34c6367e6005bfe380c98de16e5754df14e9b19971
+Homepage: https://sourceware.org/libffi/
+Description: Compilers for high level languages generate code that follows certain conventions. These conventions are necessary, in part, for separate compilation to work.
+License: MIT
+
+Package: libffi-static
+Version: 3.4.2
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 148
+Depends: libffi (= 3.4.2)
+Filename: dists/stable/main/binary-aarch64/libffi-static_3.4.2_aarch64.deb
+Size: 18116
+MD5sum: f761d6fa79fd1d85e89fe5064aae50fd
+SHA1: 8fdc97aa94813b63c82cf99dca3ee49bbd8693ad
+SHA256: da17ab3be5d31f1ddce8b4bd7c9adb55a3b348deb2f4bed5b824613e1262c170
+Homepage: https://sourceware.org/libffi/
+Description: Static libraries for libffi.
+License: MIT
+
 Package: libflac
 Version: 1.3.4-1
 Architecture: aarch64
