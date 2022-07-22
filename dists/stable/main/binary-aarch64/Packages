@@ -662,6 +662,20 @@ Homepage: https://www.nano-editor.org/
 Description: GNU nano was designed to be a free replacement for the Pico text editor, part of the Pine email suite from The University of Washington.
 License: GPL-3.0
 
+Package: nasm
+Version: 2.15.05
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 3408
+Filename: dists/stable/main/binary-aarch64/nasm_2.15.05_aarch64.deb
+Size: 343744
+MD5sum: ec4bc7adf1603f9ab216f686d93d0c9b
+SHA1: 1e03b729113e53140168d3592808c6b9b31461a5
+SHA256: 4b592361cec70c7181a7ce9615ac2107386839152a08754e97e2f20d296a6e76
+Homepage: https://nasm.us
+Description: A cross-platform x86 assembler with an Intel-like syntax.
+License: BSD 2-Clause
+
 Package: ncurses
 Version: 6.3
 Architecture: aarch64
