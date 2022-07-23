@@ -57,6 +57,38 @@ Homepage: https://xiph.org/flac/
 Description: FLAC (Free Lossless Audio Codec) command-line tool.
 License: GPL-2.0, LGPL-2.1, BSD 3-Clause
 
+Package: gdbm
+Version: 1.23
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 740
+Depends: readline
+Breaks: gdbm-dev
+Replaces: gdbm-dev
+Filename: dists/stable/main/binary-aarch64/gdbm_1.23_aarch64.deb
+Size: 156472
+MD5sum: c78acb8d196dbe461c19735aa7c19afa
+SHA1: 78c4cd6f4cc9384a49984dc45c9756786adce5fc
+SHA256: a4ca63f38928d4dc81770b2eece7db964ac9b20f66edab4b57397eb5cf152f4b
+Homepage: https://www.gnu.org.ua/software/gdbm/
+Description: GNU dbm (or GDBM, for short) is a library of database functions that use extensible hashing and work similar to the standard UNIX dbm.
+License: GPL-3.0
+
+Package: gdbm-static
+Version: 1.23
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 184
+Depends: gdbm (= 1.23)
+Filename: dists/stable/main/binary-aarch64/gdbm-static_1.23_aarch64.deb
+Size: 32616
+MD5sum: d90c1e04808190fb4417863655ffe02b
+SHA1: e237e9537b408c5658ab67cd3abb740d5e378297
+SHA256: db8488d20f03e2ea80cdff7cbe3b39b8d5ef8e1f6f8fc381879ab7eecf8163d4
+Homepage: https://www.gnu.org.ua/software/gdbm/
+Description: Static libraries for gdbm.
+License: GPL-3.0
+
 Package: iconv
 Version: 1.17-1
 Architecture: aarch64
