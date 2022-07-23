@@ -784,6 +784,38 @@ Homepage: https://www.opus-codec.org/
 Description: Static libraries for opusfile.
 License: BSD
 
+Package: readline
+Version: 8.1.2
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1260
+Depends: libandroid-support, ncurses
+Breaks: bash (<< 5.0), readline-dev
+Replaces: readline-dev
+Filename: dists/stable/main/binary-aarch64/readline_8.1.2_aarch64.deb
+Size: 233116
+MD5sum: a30b271b3ba76e63ca936b50d96c31f4
+SHA1: 959fbdb4a927ff8d19087c8ddedc686c2a56ddb2
+SHA256: 372b008b2c92f41d3c7ceecb8966c1acaf6057c3cab5dbc129ce5c625659c0e4
+Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
+Description: The GNU Readline library provides a set of functions for use by applications that allow users to edit command lines as they are typed in.
+License: GPL-3.0
+
+Package: readline-static
+Version: 8.1.2
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 796
+Depends: readline (= 8.1.2)
+Filename: dists/stable/main/binary-aarch64/readline-static_8.1.2_aarch64.deb
+Size: 134508
+MD5sum: 723444ad4a85cbaf0be969300edaac1f
+SHA1: 74c835ee2b7ba7dc3b362ac80d96a31bab3a3729
+SHA256: 33f0454efe02fb7c0ed9b3bfa1f4806236b8163fe1e5ce0b3cdbc56a62e3537c
+Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
+Description: Static libraries for readline.
+License: GPL-3.0
+
 Package: xz-utils
 Version: 5.2.5
 Architecture: aarch64

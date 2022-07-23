@@ -1,0 +1,11 @@
+--- readline-8.1.2/support/config.rpath	2018-05-22 11:46:39.000000000 -0400
++++ readline-8.1.2-patched/support/config.rpath	2022-07-23 08:33:16.966736558 -0400
+@@ -173,7 +173,7 @@
+   # here allows them to be overridden if necessary.
+   # Unlike libtool, we use -rpath here, not --rpath, since the documented
+   # option of GNU ld is called -rpath, not --rpath.
+-  hardcode_libdir_flag_spec='${wl}-rpath ${wl}$libdir'
++  hardcode_libdir_flag_spec=''
+   case "$host_os" in
+     aix[3-9]*)
+       # On AIX/PPC, the GNU linker is very broken
