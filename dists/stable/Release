@@ -5,13 +5,12 @@ Codename: stable
 Architectures: aarch64
 Components: main
 Description: APT Repo by X-Nice Craft for Android 5+
-Date: Sat, 23 Jul 2022 01:09:39 +0000
+Date: Sat, 23 Jul 2022 04:19:29 +0000
 MD5Sum:
  e15aa33cf2ee0043249cb35fad859b9a 25620 main/binary-aarch64/opusfile-static_0.12_aarch64.deb
  3975fb2c3759a76ba279cfe93993d26e 10712 main/binary-aarch64/expat_2.4.8_aarch64.deb
- 4296617ad8bccb606c8e17eedb8d8a28 9504 main/binary-aarch64/Packages.gz
+ 27778bee5b12feb45a72163d870c8478 9118 main/binary-aarch64/Packages.gz
  533178d0de27447e762e9a244426ac54 30408 main/binary-aarch64/libxml2-utils_2.9.14_aarch64.deb
- 164c058be3956eecf17e5a92d9a0f6b5 233232 main/binary-aarch64/readline_8.1.2_aarch64.deb
  9fb4dd1ed4652e34d8cd32054efabb05 896924 main/binary-aarch64/libxml2_2.9.14_aarch64.deb
  7d30e64622923258d531f68e95858746 82764 main/binary-aarch64/liblzma-static_5.2.5_aarch64.deb
  96e6b2d7251b6a111fe8330df8b61638 330620 main/binary-aarch64/libjpeg-turbo_2.1.3-1_aarch64.deb
@@ -22,7 +21,7 @@ MD5Sum:
  e47035605c6a3aff1bcdbf96b4b1e466 274048 main/binary-aarch64/libflac_1.3.4-1_aarch64.deb
  5a46f10444c218d7bbd49231bfe55ffe 88392 main/binary-aarch64/libexpat_2.4.8_aarch64.deb
  9cd5edaa473286e3a6581c5fffa2345f 788728 main/binary-aarch64/ncurses_6.3_aarch64.deb
- 4d7b442f74ea8ec8313e8a5a3b21c426 30033 main/binary-aarch64/Packages
+ e291a404c6dc749105a0f9f066cea61d 28849 main/binary-aarch64/Packages
  2136581cecc86c1195dc76ee378fd20b 239068 main/binary-aarch64/nano_6.3-2_aarch64.deb
  12d2c0ba5fbafdb37a01cdf4463aaa0c 44364 main/binary-aarch64/fdkaac_1.0.2-1_aarch64.deb
  06e438e318710dc4e96f0137211054d1 278940 main/binary-aarch64/libopus_1.3.1-1_aarch64.deb
@@ -31,7 +30,7 @@ MD5Sum:
  ac483f143bf78044518227ce2b03c2a6 319528 main/binary-aarch64/libvorbis_1.3.7-1_aarch64.deb
  2c30e14b5f03c8b9e59d7ffc0f350c2f 9096 main/binary-aarch64/libandroid-support-static_28_aarch64.deb
  71a7154523fbaf5b2088eb26fd34f1a3 280896 main/binary-aarch64/libopus-static_1.3.1-1_aarch64.deb
- d635018c0d0f44e55d4e920ac2429913 8460 main/binary-aarch64/Packages.bz2
+ 7883a1727af2d58236d92be33e34739f 8120 main/binary-aarch64/Packages.bz2
  90f95dc49912f2f1b4f6965a9076f11a 553288 main/binary-aarch64/libiconv-static_1.17-1_aarch64.deb
  9242422442f85043d1d182997c42c962 41612 main/binary-aarch64/ncurses-ui-libs-static_6.3_aarch64.deb
  498bfaa197ff1892186b99c937dfdaae 31884 main/binary-aarch64/libffi_3.4.2_aarch64.deb
@@ -60,19 +59,17 @@ MD5Sum:
  2b0c4f3f305c3f2849c2568dacf8c9e8 295596 main/binary-aarch64/libde265_1.0.8_aarch64.deb
  c75db9ce09d817120549c22c2f730aba 10784 main/binary-aarch64/iconv_1.17-1_aarch64.deb
  83e5b429317d135bbe61701f754097b3 3152 main/binary-aarch64/libandroid-posix-semaphore-static_0.1_aarch64.deb
- a9bd35334bec9cf2e734f486f18d2354 8664 main/binary-aarch64/Packages.xz
+ 5f5cfd4da7e357fcd94b6575ecce4f4b 8320 main/binary-aarch64/Packages.xz
  ec4bc7adf1603f9ab216f686d93d0c9b 343744 main/binary-aarch64/nasm_2.15.05_aarch64.deb
  f8f4ec46faf8984d6dae007cd1043a82 17744 main/binary-aarch64/libogg-static_1.3.5-1_aarch64.deb
  eb9d099002b65efa5933a41a37a7045b 560828 main/binary-aarch64/libiconv_1.17-1_aarch64.deb
  f8610fcde4698c62874e5940836c6146 58044 main/binary-aarch64/xz-utils_5.2.5_aarch64.deb
- 2ff1fb5b0bbdd73643930b81ab912bdb 134272 main/binary-aarch64/readline-static_8.1.2_aarch64.deb
  77200131f920a738478a1ce2315744f8 189204 main/binary-aarch64/libogg_1.3.5-1_aarch64.deb
 SHA1:
  0401e25357b42f3772b8c4c085b2a061e7bf2dd4 25620 main/binary-aarch64/opusfile-static_0.12_aarch64.deb
  20221130674508c660ed1e0903f24f52d4690281 10712 main/binary-aarch64/expat_2.4.8_aarch64.deb
- 6c565be16eb7848d7a50b9047b52e7e3abc9018e 9504 main/binary-aarch64/Packages.gz
+ c6b9002f2ebcde7101edd43388f949d059e60d3f 9118 main/binary-aarch64/Packages.gz
  5e78ed7e76ac14cc17e31b245edeb040de248a3c 30408 main/binary-aarch64/libxml2-utils_2.9.14_aarch64.deb
- 887663ed9298cef8838341ece46225f702667b37 233232 main/binary-aarch64/readline_8.1.2_aarch64.deb
  2c46fcdbf899adae2ca9acd9dd3352abadb5f89e 896924 main/binary-aarch64/libxml2_2.9.14_aarch64.deb
  9262938b30abe07983ebc87e8034baeef4768f78 82764 main/binary-aarch64/liblzma-static_5.2.5_aarch64.deb
  44f3a343316bf2e90c9c0b675f82c0e46d44c53c 330620 main/binary-aarch64/libjpeg-turbo_2.1.3-1_aarch64.deb
@@ -83,7 +80,7 @@ SHA1:
  933ec887cb19ab22d14f054ec95f78ca508d3f55 274048 main/binary-aarch64/libflac_1.3.4-1_aarch64.deb
  e19561f7e73843f8c94d08a5d445c9a0b7f8de11 88392 main/binary-aarch64/libexpat_2.4.8_aarch64.deb
  fa696bc7d7e76659acc86f01491ad2604216ff40 788728 main/binary-aarch64/ncurses_6.3_aarch64.deb
- 6009bd16bea3f4e0ec72ddbba9837756f9f8cee1 30033 main/binary-aarch64/Packages
+ 4f9ca9903e1561e93cac1b42473c77c011ba94d0 28849 main/binary-aarch64/Packages
  6e9fb6932d85e439651e6161b21f293963af99ab 239068 main/binary-aarch64/nano_6.3-2_aarch64.deb
  32062f3a312efa9f4a3b9fb5391e79ea22c4c911 44364 main/binary-aarch64/fdkaac_1.0.2-1_aarch64.deb
  b9b23da87294baef684c3990cd1d95508c136df4 278940 main/binary-aarch64/libopus_1.3.1-1_aarch64.deb
@@ -92,7 +89,7 @@ SHA1:
  52c130d82743b374b6ad0539919bb206f7b6ab01 319528 main/binary-aarch64/libvorbis_1.3.7-1_aarch64.deb
  9514006478f2ee9eed0b61e5b0c27730e0ed9cde 9096 main/binary-aarch64/libandroid-support-static_28_aarch64.deb
  20ce363eba1e8b025f6faca8d0a674305555e9c7 280896 main/binary-aarch64/libopus-static_1.3.1-1_aarch64.deb
- 2a3bc8691e8e859e79975fb3c93f4fdde182bbc8 8460 main/binary-aarch64/Packages.bz2
+ 71a2aaceffee0ea3c425e4b70ec78e59316838d9 8120 main/binary-aarch64/Packages.bz2
  273e098db9f661017db7cc4b4ad79ab0ca6b254f 553288 main/binary-aarch64/libiconv-static_1.17-1_aarch64.deb
  2e12c3ce553658bc510718d1fcb8911d93b335a8 41612 main/binary-aarch64/ncurses-ui-libs-static_6.3_aarch64.deb
  3c17c8e8314835bd6c902c1aa2fe8ae6495af0f7 31884 main/binary-aarch64/libffi_3.4.2_aarch64.deb
@@ -121,19 +118,17 @@ SHA1:
  179df5916ca998a3d226475a2b4e8b811416b6d7 295596 main/binary-aarch64/libde265_1.0.8_aarch64.deb
  086a36c2b1c61f4d879dd967a086905c995c49b2 10784 main/binary-aarch64/iconv_1.17-1_aarch64.deb
  77dd15ff056e7bee17a41ab1b7bb3c30444bec33 3152 main/binary-aarch64/libandroid-posix-semaphore-static_0.1_aarch64.deb
- 3cd361a03023779cb27edf2f3cef5e33121c2986 8664 main/binary-aarch64/Packages.xz
+ c5cae71bed506a66d1a5aa3349c559d4a011b7eb 8320 main/binary-aarch64/Packages.xz
  1e03b729113e53140168d3592808c6b9b31461a5 343744 main/binary-aarch64/nasm_2.15.05_aarch64.deb
  6efbe017e8de6f03e0dad4dd44e052f51653c5a2 17744 main/binary-aarch64/libogg-static_1.3.5-1_aarch64.deb
  6c27b362d51fe4eae05a9d93a2fa134083760fde 560828 main/binary-aarch64/libiconv_1.17-1_aarch64.deb
  b7b52f4802d0f412f73c79a2720053d7beece78c 58044 main/binary-aarch64/xz-utils_5.2.5_aarch64.deb
- 2eab4fb2994e7e0860807824217a6feb4161087b 134272 main/binary-aarch64/readline-static_8.1.2_aarch64.deb
  e77220c974a81fe90b3220abbb489556a68aa975 189204 main/binary-aarch64/libogg_1.3.5-1_aarch64.deb
 SHA256:
  0625ca43d935ac047d51d0ef02117e0959742a54f9f40acc293caf542fd589cb 25620 main/binary-aarch64/opusfile-static_0.12_aarch64.deb
  214204cb9e0edaa2bc94d3e07ed2619cb3e368be67f5eaa6a5be7b417b9868dc 10712 main/binary-aarch64/expat_2.4.8_aarch64.deb
- c66fe7f016b268e471b40b540baf9c721d00f5c795b172392204161e88b1d89d 9504 main/binary-aarch64/Packages.gz
+ 85112b40c709a6fa5566d514e91e7c8d83220291d020f45c7422c7332f97918a 9118 main/binary-aarch64/Packages.gz
  6a057b668760b0c1bdef7c8a46f1802cfb7639fa23fd51144164fd8938d6096d 30408 main/binary-aarch64/libxml2-utils_2.9.14_aarch64.deb
- 361c4d3600b4312eee7ad6a9af052c28e0eaebd19b00842269ed8699e396fd39 233232 main/binary-aarch64/readline_8.1.2_aarch64.deb
  416260644a1bb6d8714358326df178fb6dd67bc0bfe432ce412d0049debabfa5 896924 main/binary-aarch64/libxml2_2.9.14_aarch64.deb
  40adb06e673633f6bcc138087d5047fef91a6930b6b9f13bff007471e5f542a8 82764 main/binary-aarch64/liblzma-static_5.2.5_aarch64.deb
  7323e04a976956b894396cb5091b2a53e1ee4c5fd22e32831aab95ac40421537 330620 main/binary-aarch64/libjpeg-turbo_2.1.3-1_aarch64.deb
@@ -144,7 +139,7 @@ SHA256:
  e72d64b76ba3602301229ee7f2a55a5723b7e6b21581b8705627cc3f7960ef50 274048 main/binary-aarch64/libflac_1.3.4-1_aarch64.deb
  68c6488cb44cf7979775864c290d661a6b30722ebce8a477eee5bf23e3d198f2 88392 main/binary-aarch64/libexpat_2.4.8_aarch64.deb
  3d7717eacaacf89cd93c6ccf978e10b40e91d78bf83368e76699a25de472ec6b 788728 main/binary-aarch64/ncurses_6.3_aarch64.deb
- 020c4ae48088eef71342618e1952e4c5d983167140ac5ea1339101ee043aa04c 30033 main/binary-aarch64/Packages
+ 4d191cbb308d448e19964cb43f3e36e393b06ed524979763f7a46e16e38f39ca 28849 main/binary-aarch64/Packages
  40e52e29abebe5fd23d422ec0bea7ad7d56d6bf6ff2a0cbf497aba9e4f5d3f89 239068 main/binary-aarch64/nano_6.3-2_aarch64.deb
  621b5e509f47caa02725a1f10c2f60adf513af1fcc283d0255ba3c860f869190 44364 main/binary-aarch64/fdkaac_1.0.2-1_aarch64.deb
  2a0d7ee3e93108c3971472fa6ea38d93ac2832a0d141c909f20820d431cea4a7 278940 main/binary-aarch64/libopus_1.3.1-1_aarch64.deb
@@ -153,7 +148,7 @@ SHA256:
  95d147ebb6b7366a4f26306a8cbd98d1e6700ed9592939543bb83a3e124a44ac 319528 main/binary-aarch64/libvorbis_1.3.7-1_aarch64.deb
  0085354f70ee1abf5690a05c6c8a2498b31c9a9b9349e8e61c827de7d4b3bf0d 9096 main/binary-aarch64/libandroid-support-static_28_aarch64.deb
  4a3eb31655164b9e5a1f5701e0f45bbb7ea4fb6a66b830389b2e178a3139350e 280896 main/binary-aarch64/libopus-static_1.3.1-1_aarch64.deb
- 6dba71e9c58b5dde20a78c515bfa5869ee99ffc2943e4f062dd986eb8a58406e 8460 main/binary-aarch64/Packages.bz2
+ 408ea2f15489306871e74b7a04a1acd7c4e64796f967c733dd323d06751db0b6 8120 main/binary-aarch64/Packages.bz2
  ee9f28596267ae54e640f06f2d52afc10c6b1a9775ae80f4eb49483c7897229b 553288 main/binary-aarch64/libiconv-static_1.17-1_aarch64.deb
  6f7d5871a701e9258026868a6f621f535034fee1de98d64b3c8bd4b17c59705c 41612 main/binary-aarch64/ncurses-ui-libs-static_6.3_aarch64.deb
  0f868aed561151b3c0ba6f34c6367e6005bfe380c98de16e5754df14e9b19971 31884 main/binary-aarch64/libffi_3.4.2_aarch64.deb
@@ -182,10 +177,9 @@ SHA256:
  8de5ca12346a974c13ca445504417835e033751798870126261c31bf24096c38 295596 main/binary-aarch64/libde265_1.0.8_aarch64.deb
  5ee1f935a7610cdbe3847d85adbab4296ca91cfc9181797701dbfbde7cad759e 10784 main/binary-aarch64/iconv_1.17-1_aarch64.deb
  631f4a9fab5bd271bb8618928ee7583e1ecc6f3774dfd9b2ffa17f89e624ff35 3152 main/binary-aarch64/libandroid-posix-semaphore-static_0.1_aarch64.deb
- caa468eea7420db507af6b5a70d7ed9264aab34769c17dbd2586e69b17113de1 8664 main/binary-aarch64/Packages.xz
+ 707033dcae2619f527ee0f321e2df2eb256a238cc1ab91dc18e93b9b24fadf7f 8320 main/binary-aarch64/Packages.xz
  4b592361cec70c7181a7ce9615ac2107386839152a08754e97e2f20d296a6e76 343744 main/binary-aarch64/nasm_2.15.05_aarch64.deb
  dd0da3717ca0b2d59ce43c3c507d016e4c5d03a05f2ff4f6e243ee8e8df8426d 17744 main/binary-aarch64/libogg-static_1.3.5-1_aarch64.deb
  a5a9847da2b7f9176175e0503df7c702b61419d0482475eb23088edeed34f74b 560828 main/binary-aarch64/libiconv_1.17-1_aarch64.deb
  5a7f13db3d6c14edc52370a1aa5d3d3210e06cb07abb6f5ebd609879c9f7ef40 58044 main/binary-aarch64/xz-utils_5.2.5_aarch64.deb
- e4935e4b548f73d5eee83576c7c889c1a630625b29f292af2e1c99d84559b570 134272 main/binary-aarch64/readline-static_8.1.2_aarch64.deb
  0bbf0c7f82aa42cf1d7b5c45f5a9a314f12445a897922d7321137345e015f229 189204 main/binary-aarch64/libogg_1.3.5-1_aarch64.deb
