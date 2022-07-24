@@ -9,6 +9,9 @@ This repository provide termux packages for Aarch64 Android 5 that aren't mainta
 2. ```chmod +x setup-apt.sh```
 3. ```./setup-apt.sh```
 
+### Caution
+- Dont update libffi to the newest one. That will make clang error!
+
 ### Toolchain Download
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_Drive_logo.png/669px-Google_Drive_logo.png" style="width: 20px;heigth: 20px;"> GDrive : https://drive.google.com/file/d/1UIgXaRwsQT6wddB981H8vkKgZIyAOMy0 (Linux Only)
 
