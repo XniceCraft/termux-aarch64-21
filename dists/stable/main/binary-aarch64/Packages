@@ -378,6 +378,38 @@ Homepage: https://xiph.org/flac/
 Description: Static libraries for libflac
 License: GPL-2.0, LGPL-2.1, BSD 3-Clause
 
+Package: libgmp
+Version: 6.2.1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1424
+Depends: libc++
+Breaks: libgmp-dev
+Replaces: libgmp-dev
+Filename: dists/stable/main/binary-aarch64/libgmp_6.2.1_aarch64.deb
+Size: 358932
+MD5sum: 7f53b259d8da81c3fb290e10ea9bc8a6
+SHA1: 6f7b2b39a2ebe5c5a83060d60ec9aa4bc8cf9f18
+SHA256: 974717ad1adaf88fb21c61908a6e2fcb7a90f6fbea38a1daae2df775cbdfadd2
+Homepage: https://gmplib.org/
+Description: GMP is a free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. There is no practical limit to the precision except the ones implied by the available memory in the machine GMP runs on.
+License: LGPL-3.0
+
+Package: libgmp-static
+Version: 6.2.1
+Architecture: aarch64
+Maintainer: X-Nice Craft
+Installed-Size: 1324
+Depends: libgmp (= 6.2.1)
+Filename: dists/stable/main/binary-aarch64/libgmp-static_6.2.1_aarch64.deb
+Size: 250140
+MD5sum: e513befac9359fcf9b603ae621216140
+SHA1: f0de9a54a270b6ba1f2df2fddfc33c5a2d452f3f
+SHA256: 3a739988a5ed2381112161312151c7fdd5df5b5cdaefd2dba2c77b18674f1095
+Homepage: https://gmplib.org/
+Description: Static libraries for libgmp.
+License: LGPL-3.0
+
 Package: libiconv
 Version: 1.17-1
 Architecture: aarch64
