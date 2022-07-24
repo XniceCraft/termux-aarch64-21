@@ -10,7 +10,7 @@ This repository provide termux packages for Aarch64 Android 5 that aren't mainta
 3. ```./setup-apt.sh```
 
 ### Caution
-- Dont update libffi to the newest one. That will make clang error!
+- Dont update libffi to the newest one. That will make clang doesn't work!
 
 ### Todo List
 - Compile clang
