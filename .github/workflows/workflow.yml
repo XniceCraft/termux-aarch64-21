@@ -5,6 +5,7 @@ jobs:
   pages-directory-listing:
     runs-on: ubuntu-latest
     name: Directory Listings Index
+    steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
