@@ -5,6 +5,11 @@ jobs:
   pages-directory-listing:
     runs-on: ubuntu-latest
     name: Directory Listings Index
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          re: master
+
       - name: Generate list
         uses: jayanta525/github-pages-directory-listing@v4.0.0
         with:
@@ -13,7 +18,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: 'pages'
+          path: '.'
   
   deploy:
     needs: pages-directory-listing
