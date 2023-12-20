@@ -5,7 +5,7 @@ Codename: stable
 Architectures: aarch64
 Components: main
 Description: APT Repo for Legacy Termux (Android 5)
-Date: Wed, 20 Dec 2023 05:48:02 +0000
+Date: Wed, 20 Dec 2023 11:43:25 +0000
 MD5Sum:
  ba42b34db34773d2759a9ce4aad9d5c9 26612 main/binary-aarch64/bzip2_1.0.8-6_aarch64.deb
  d312f9ef6ddf69d10f37f52054b01aab 77824 main/binary-aarch64/libuv_1.47.0_aarch64.deb
@@ -14,7 +14,7 @@ MD5Sum:
  248e03717c1812796c965e7bcfcd075d 598752 main/binary-aarch64/unbound_1.19.0_aarch64.deb
  d1f381f1722816e0eec426255bcfdeaf 17576 main/binary-aarch64/libtermkey_0.22-3_aarch64.deb
  407b6aacdfbe39904936f319a20de3a3 272784 main/binary-aarch64/libmpfr_4.2.1_aarch64.deb
- 87847eebd2d552b8a5ee24ecf5a4956c 25688 main/binary-aarch64/Packages.bz2
+ bd19f42b9d48fc203320806c9cc41b75 25831 main/binary-aarch64/Packages.bz2
  b2dec0aa3b083b0ff01572eca463293b 121248 main/binary-aarch64/ca-certificates_1:2023.08.22_all.deb
  3a0f72b88cc99b14194576438d4a7843 425036 main/binary-aarch64/libarchive_3.7.2_aarch64.deb
  a2308866ba276cccf34899c820254513 48360 main/binary-aarch64/libusb-static_1.0.26-1_aarch64.deb
@@ -117,7 +117,7 @@ MD5Sum:
  1b363544669f0f67ee8188353dd64fa9 541928 main/binary-aarch64/libunistring_1.1_aarch64.deb
  9c4d1ad23a981ec3a90127866662ea2e 40384 main/binary-aarch64/uuid-utils_2.39.3-3_aarch64.deb
  3123e5858697af6aacd0781e463e7729 130316 main/binary-aarch64/libblkid_2.39.3-3_aarch64.deb
- d741e3db9db772d5b1086a46a2d723ef 27404 main/binary-aarch64/Packages.xz
+ 58d50cd88195c151420185400ee41261 27576 main/binary-aarch64/Packages.xz
  9ccf08399adf88ebf65ae56ed001b90d 257140 main/binary-aarch64/openssl-tool_1:3.1.4_aarch64.deb
  7aa0ec848b3ef6580994602dd33caa42 940044 main/binary-aarch64/krb5_1.21.2_aarch64.deb
  542ca4e30d1351e1e84a48da96edfa4c 2126612 main/binary-aarch64/binutils-cross_2.41_aarch64.deb
@@ -159,6 +159,7 @@ MD5Sum:
  c2274b042544c7e7736ba75d282acb2f 247408 main/binary-aarch64/libgmp-static_6.3.0_aarch64.deb
  dea1a2334924a4ba91ee89bc8de0d30f 125372 main/binary-aarch64/dpkg-perl_1.22.1-1_all.deb
  f49d2c4bfbae80cb346ee1e210343acc 159284 main/binary-aarch64/rhash_1.4.4_aarch64.deb
+ 54e98ee0fc8248b96ea3e655b761bfed 1396344 main/binary-aarch64/ndk-sysroot_25c_aarch64.deb
  1d3a9cc5b3c8b2f3834db331f7e42e5e 11244 main/binary-aarch64/libnpth_1.6-1_aarch64.deb
  24488ac64bcd7dbd19a002b0962067d0 1016 main/binary-aarch64/resolv-conf_1.3_aarch64.deb
  d7590981a9682cea681fc6a2d19b5a1a 149880 main/binary-aarch64/gdbm_1.23_aarch64.deb
@@ -178,14 +179,14 @@ MD5Sum:
  1b5f767c23d1a7aed0e352ff5565dc92 31460 main/binary-aarch64/libxml2-utils_2.12.3_aarch64.deb
  d499697c69b4a95d40cea192ff116033 72220 main/binary-aarch64/libnghttp2-static_1.58.0_aarch64.deb
  da9857792dd5f01209d9a6bcfa7e64b1 50412 main/binary-aarch64/openssh-sftp-server_9.5p1-2_aarch64.deb
- cecc91a0f23c94212fead6c4e863f3ad 31455 main/binary-aarch64/Packages.gz
+ ae3445361c3d1cd6c16882e5844be0f2 31679 main/binary-aarch64/Packages.gz
  3a04b957261146fc80e679889535241b 1755124 main/binary-aarch64/openssl-static_1:3.1.4_aarch64.deb
  3112b9a3cda820cc7ce0161673a1d016 3540 main/binary-aarch64/termux-exec_1:1.0_aarch64.deb
  33568ad21539111eac912700838d49a2 35968 main/binary-aarch64/libcap-ng_2:0.8.3_aarch64.deb
  29e05fc0456b3b6f399ee310a64178f3 210320 main/binary-aarch64/m4_1.4.19-4_aarch64.deb
  841b5595cbe1f6624fd121e10cf9ddbc 669552 main/binary-aarch64/libnettle-static_3.9.1_aarch64.deb
  f999e5571cb7dd2325201f72cf3c4f7f 162908 main/binary-aarch64/libfdisk_2.39.3-3_aarch64.deb
- 54a351d5bb20e17024f06bc3cbdf91b3 100480 main/binary-aarch64/Packages
+ aa612f3e4afa4ed1cb06389051ac1753 101106 main/binary-aarch64/Packages
  a0583537c51ba36cfce7a9e306f5b090 62116 main/binary-aarch64/libgpg-error-static_1.47_aarch64.deb
  e21f7d5972e5e9fe7832fd88ea8904f1 461876 main/binary-aarch64/libunistring-static_1.1_aarch64.deb
  ab774efb896046c1cddbcb57facc1e1e 261988 main/binary-aarch64/libluajit-static_1:2.1.1702233742_aarch64.deb
@@ -217,7 +218,7 @@ SHA1:
  7c51badbbedd2f818490a5df819c481c2b25ae2f 598752 main/binary-aarch64/unbound_1.19.0_aarch64.deb
  b38a94e28917643d1a6ca89f07c35db0f580c2cf 17576 main/binary-aarch64/libtermkey_0.22-3_aarch64.deb
  73ed04fc1e06f21906a62523316b012c2678cd90 272784 main/binary-aarch64/libmpfr_4.2.1_aarch64.deb
- 08ace1c4d7b35aeaeb3b9ee452ddbdc738bf963a 25688 main/binary-aarch64/Packages.bz2
+ 3f08911f213617f5b4ee6c98efacfe9d86815dd8 25831 main/binary-aarch64/Packages.bz2
  eb76131fe18455c3b171a8222e9ec81ebe6d5dbd 121248 main/binary-aarch64/ca-certificates_1:2023.08.22_all.deb
  6a03b7b9fa01db4fef8eb9d5117ba0e5b4b1fd42 425036 main/binary-aarch64/libarchive_3.7.2_aarch64.deb
  e34f616e18fcc1093e01608cafda925293d80ad6 48360 main/binary-aarch64/libusb-static_1.0.26-1_aarch64.deb
@@ -320,7 +321,7 @@ SHA1:
  c7279afb494a912759a654c7a0251edfc534097f 541928 main/binary-aarch64/libunistring_1.1_aarch64.deb
  0171884dec8226fb0e5e600c184e3dc044d7088b 40384 main/binary-aarch64/uuid-utils_2.39.3-3_aarch64.deb
  aafaf1b90c83cbad483eda259ae71bfc8e84e830 130316 main/binary-aarch64/libblkid_2.39.3-3_aarch64.deb
- 68916da3cf09875391e5981ce4298f34ab08ff47 27404 main/binary-aarch64/Packages.xz
+ bc210254bc28fed373790648c33537d8c42d52ae 27576 main/binary-aarch64/Packages.xz
  2948f478d226079a210ab9fce9a43964685e47ee 257140 main/binary-aarch64/openssl-tool_1:3.1.4_aarch64.deb
  481a2add32b6606b8a61fcc84c1b1f9655f2c96b 940044 main/binary-aarch64/krb5_1.21.2_aarch64.deb
  916c7ccfab04d96d42190705cddb26580f86dfd2 2126612 main/binary-aarch64/binutils-cross_2.41_aarch64.deb
@@ -362,6 +363,7 @@ SHA1:
  fe491104deff7f0d8476ab87071c18af2db98ba7 247408 main/binary-aarch64/libgmp-static_6.3.0_aarch64.deb
  f28d657926c78d5ff4e858490dea99ee1669a117 125372 main/binary-aarch64/dpkg-perl_1.22.1-1_all.deb
  2b7eac4810073c61fcdaa47394ac473c7342e9fd 159284 main/binary-aarch64/rhash_1.4.4_aarch64.deb
+ 1ea0045656a4ca00a088d637e714f203a8a178b9 1396344 main/binary-aarch64/ndk-sysroot_25c_aarch64.deb
  943a5f480081a996ee53c0dcc8c9c1e7039e3aac 11244 main/binary-aarch64/libnpth_1.6-1_aarch64.deb
  806bd88f3aa4180c701f9ad9b94c713fb4ec6ac1 1016 main/binary-aarch64/resolv-conf_1.3_aarch64.deb
  50dd02f65bc899e214287909a7e5900cc4fe4afb 149880 main/binary-aarch64/gdbm_1.23_aarch64.deb
@@ -381,14 +383,14 @@ SHA1:
  f9ec9c7b6078475eee6ae27250005e166197cbcf 31460 main/binary-aarch64/libxml2-utils_2.12.3_aarch64.deb
  963d02f5f7981b7ff006e0d2a5bfc61c27b1eecc 72220 main/binary-aarch64/libnghttp2-static_1.58.0_aarch64.deb
  4ce90e093f1ac0d59dcb2da91968dc03d278d62d 50412 main/binary-aarch64/openssh-sftp-server_9.5p1-2_aarch64.deb
- a9dcbb6fa1af2975b86b75e249bca6125474ec9f 31455 main/binary-aarch64/Packages.gz
+ 27b71793fa1b0f65fb213a3a8d3faba1d1159949 31679 main/binary-aarch64/Packages.gz
  dc94c5167f75ffee6dd74618f9cd21c079e0c5e2 1755124 main/binary-aarch64/openssl-static_1:3.1.4_aarch64.deb
  0df7ba096b31e08f40d954c1e7878ab31a05412f 3540 main/binary-aarch64/termux-exec_1:1.0_aarch64.deb
  2852962dda185cc2a6fcc67d8704081b119c408a 35968 main/binary-aarch64/libcap-ng_2:0.8.3_aarch64.deb
  af5372de8751fc603fcf8811a1c995c8be0746fe 210320 main/binary-aarch64/m4_1.4.19-4_aarch64.deb
  206063e6d36bd684e17b9c94896005dc4f47defd 669552 main/binary-aarch64/libnettle-static_3.9.1_aarch64.deb
  626b299994680d3764c791b3cf60174b46c60c96 162908 main/binary-aarch64/libfdisk_2.39.3-3_aarch64.deb
- eb208d1f89325a29c6cd160746cf1f2e3d64374f 100480 main/binary-aarch64/Packages
+ 3ec5fd5346bef8708ffa870e712651fc080e4e62 101106 main/binary-aarch64/Packages
  4208e663778e909500092335c3f92a11b987d154 62116 main/binary-aarch64/libgpg-error-static_1.47_aarch64.deb
  b18f22be7cb98cab9a3c9b88cd669003eaccf70f 461876 main/binary-aarch64/libunistring-static_1.1_aarch64.deb
  6dce675b17f180da2d7d5264682b431482447a75 261988 main/binary-aarch64/libluajit-static_1:2.1.1702233742_aarch64.deb
@@ -420,7 +422,7 @@ SHA256:
  107b73e81ac28174603477db7af3dd9538140a8b13c57ed5ce5d1ba21f1f9bd1 598752 main/binary-aarch64/unbound_1.19.0_aarch64.deb
  c30dbdd466d5d409a1358d0a727a92b196b722a82106ead01961c69f04053203 17576 main/binary-aarch64/libtermkey_0.22-3_aarch64.deb
  e2c66d006f1cff750bd906005d2df0add0f037c5a4501f301b131cc19c23fc60 272784 main/binary-aarch64/libmpfr_4.2.1_aarch64.deb
- ec8965f4db314e385b7862feb08d2ff95b70ae8d0e717ebc26d4c897c36132b7 25688 main/binary-aarch64/Packages.bz2
+ f0558dae60379e893a51def5a629151f892baf662933b16af9299897c7f128fa 25831 main/binary-aarch64/Packages.bz2
  b03a437951680582bff0ccdfec0d4ab4acf27a2fbcddd223f61f51e72ee4931b 121248 main/binary-aarch64/ca-certificates_1:2023.08.22_all.deb
  4163480875cdbcd4816e990da1026be48f7029fc9fff03273120e50ac221b5e3 425036 main/binary-aarch64/libarchive_3.7.2_aarch64.deb
  5530c997d5426e0175199c9d49fbee0b09c07781d93b92a384b8337ad5a1f47e 48360 main/binary-aarch64/libusb-static_1.0.26-1_aarch64.deb
@@ -523,7 +525,7 @@ SHA256:
  f055e96d27da50bb3dcf78c5f8734be696fde3031643b8ad3b76db0bbedcfca2 541928 main/binary-aarch64/libunistring_1.1_aarch64.deb
  c81f1e0ebd7a26630ec5e0bd11479d3dfe849fabb169b5bf636200a0877dd573 40384 main/binary-aarch64/uuid-utils_2.39.3-3_aarch64.deb
  ff44b68176003910c9684d2441208bb80b5330a694436e7e1e069d0d272d2f71 130316 main/binary-aarch64/libblkid_2.39.3-3_aarch64.deb
- 36a9fca60cc4a959de705a6e267baaa6592a9c7a2a690a39c273211ac6f8db08 27404 main/binary-aarch64/Packages.xz
+ f9b59ac57ed5669d87d4fdc5458f4215348f1a1d219b9da8921a2ed83e6abd24 27576 main/binary-aarch64/Packages.xz
  ff3084908dc0f9077d327d86a010d975e4aee06b708f84bded1bc6deb6f9527e 257140 main/binary-aarch64/openssl-tool_1:3.1.4_aarch64.deb
  36b2e17023790ea89d717351e99fa0867f27f112294daf4584e96baf7d2ca9f0 940044 main/binary-aarch64/krb5_1.21.2_aarch64.deb
  312436eb7fa34dd2c861d7ac444ad0db4d662d9301204e0ebfec8734885a5208 2126612 main/binary-aarch64/binutils-cross_2.41_aarch64.deb
@@ -565,6 +567,7 @@ SHA256:
  948211c93bf204c023d0b172da153ac8d4608f47e259de790e19ee58efa35f24 247408 main/binary-aarch64/libgmp-static_6.3.0_aarch64.deb
  dedbd1d5af857085c2007ff937b02f5fd41b832ce5ad33e6225ed6e598970568 125372 main/binary-aarch64/dpkg-perl_1.22.1-1_all.deb
  a7a3e52a00883a1b58246c6b34a8febe936b21a53f0afc7ef03c27f4f1f12100 159284 main/binary-aarch64/rhash_1.4.4_aarch64.deb
+ 9708308a2135997fa581b9194369e8e7766e2cdc618d451378f5aec0a5938d40 1396344 main/binary-aarch64/ndk-sysroot_25c_aarch64.deb
  ae8ac85b3e26a6ec46a352c4cd101277f919ea6ae60514fa94389f3e3142abc8 11244 main/binary-aarch64/libnpth_1.6-1_aarch64.deb
  1b44d13fc37e8acd9ac70c8a1588019346499d0ed1a226642e35345b327c7c33 1016 main/binary-aarch64/resolv-conf_1.3_aarch64.deb
  1d3d5b5afb62c0b4890688d9d833449d4de1f16994ad5c7b25a00173ec77a887 149880 main/binary-aarch64/gdbm_1.23_aarch64.deb
@@ -584,14 +587,14 @@ SHA256:
  d22198a7701b23bf993289dfd8632c24ae347a23f0aef248c60fb8724def6662 31460 main/binary-aarch64/libxml2-utils_2.12.3_aarch64.deb
  3c6c275668bb3e4a9e6553cf0ddc6c9226dbc0005e52740b8c4845faa4e4acd8 72220 main/binary-aarch64/libnghttp2-static_1.58.0_aarch64.deb
  e07de9eb427ec97cd35b949f6861cf194efca0f937101c794bf84d78618dabb0 50412 main/binary-aarch64/openssh-sftp-server_9.5p1-2_aarch64.deb
- 71285e1c7a5319ad037909cb23c213fa4e2b80c66ffc2a947c61088da8d04a23 31455 main/binary-aarch64/Packages.gz
+ e06f712f56545a24b07db1cc868e4fea74e6c8781fe24ef29aa123ea2a6a0782 31679 main/binary-aarch64/Packages.gz
  9e6013d15d41035ad2336e6bc55f4d5a7b7a1d20fe3ce7678dce950c0906270b 1755124 main/binary-aarch64/openssl-static_1:3.1.4_aarch64.deb
  057b7cb3d67458d596c2ebf1382d40588c3ffa1512e22f92c80c80a1e08a6fcb 3540 main/binary-aarch64/termux-exec_1:1.0_aarch64.deb
  c59fbe438bfa498c97e6d547ab9a5d6ec7d54c9ff62828112ee17cc8bbd8c98a 35968 main/binary-aarch64/libcap-ng_2:0.8.3_aarch64.deb
  f48f26bf772a5aa02e3ea96c890dfa43e37b8dc0286b2c0a2d15bf7cdc05131f 210320 main/binary-aarch64/m4_1.4.19-4_aarch64.deb
  469adfd6ed3177c3d87d2d8bf04233afd8e8219d5f34dabb390b4e043613b0c9 669552 main/binary-aarch64/libnettle-static_3.9.1_aarch64.deb
  52878b85a3f47a4dc38aa3da48af28dc60e37b2cf90e41c4c7da427164fa10bc 162908 main/binary-aarch64/libfdisk_2.39.3-3_aarch64.deb
- 643cce932a485ccfa0c534923a05333db2565b85d6900a68fd1d46c8f1f0ba2c 100480 main/binary-aarch64/Packages
+ f3499bd5a7d6046ec40cf14e30a383dc66c010faf8cc6cbf11fdf9db2ed911c1 101106 main/binary-aarch64/Packages
  5d7d1bb2dd5d967de4e6596bce3a3e6c5909014101440d6c796867034bec695a 62116 main/binary-aarch64/libgpg-error-static_1.47_aarch64.deb
  639b6afb81878e679da9b9816658ac4e431060dad365a715565e9eb7eaa27eed 461876 main/binary-aarch64/libunistring-static_1.1_aarch64.deb
  9b2ca84b0786d708cb0edebbc534683be5903ca40f4b7c228534affc8ece8790 261988 main/binary-aarch64/libluajit-static_1:2.1.1702233742_aarch64.deb

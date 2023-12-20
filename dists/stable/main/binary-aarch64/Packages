@@ -2172,6 +2172,21 @@ SHA256: 4aa4470f8089cdb728b08289706b6a54ade615637a33864cb19137c16f083bd0
 Homepage: https://invisible-island.net/ncurses/
 Description: Tools for working with terminals
 
+Package: ndk-sysroot
+Version: 25c
+Architecture: aarch64
+Maintainer: @termux
+Installed-Size: 15712
+Conflicts: libutil-dev, libgcc, libandroid-support-dev
+Replaces: libutil-dev, libgcc, libandroid-support-dev, ndk-stl
+Filename: dists/stable/main/binary-aarch64/ndk-sysroot_25c_aarch64.deb
+Size: 1396344
+MD5sum: 54e98ee0fc8248b96ea3e655b761bfed
+SHA1: 1ea0045656a4ca00a088d637e714f203a8a178b9
+SHA256: 9708308a2135997fa581b9194369e8e7766e2cdc618d451378f5aec0a5938d40
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Description: System header and library files from the Android NDK needed for compiling C programs
+
 Package: neovim
 Version: 0.9.4
 Architecture: aarch64
